@@ -1,0 +1,943 @@
+2019-08-30 11:27:47 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 11:27:47 INFO  IronBankMain:14 - ===========================
+2019-08-30 11:27:47 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 11:27:47 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 11:27:47 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 11:27:51 INFO  IronBankMain:32 - 
+
+Welcome back
+2019-08-30 11:27:51 INFO  IronBankMain:33 - =========================
+2019-08-30 11:27:51 INFO  IronBankMain:34 - Enter your credentials to continue
+2019-08-30 11:27:51 INFO  IronBankMain:23 - Enter your username...
+2019-08-30 11:27:57 INFO  IronBankMain:25 - Enter your password...
+2019-08-30 11:28:03 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 11:28:03 INFO  IronBankMain:22 - ==================
+2019-08-30 11:28:03 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 11:28:03 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 11:28:03 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 11:28:03 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 11:28:03 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 11:28:03 INFO  IronBankMain:28 - 6) Log out
+2019-08-30 11:28:06 INFO  IronBankMain:83 - Log out stub
+2019-08-30 11:28:06 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 11:28:06 INFO  IronBankMain:14 - ===========================
+2019-08-30 11:28:06 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 11:28:06 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 11:28:06 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 11:44:23 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 11:44:23 INFO  IronBankMain:14 - ===========================
+2019-08-30 11:44:23 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 11:44:23 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 11:44:23 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 11:44:25 INFO  IronBankMain:32 - 
+
+Welcome back
+2019-08-30 11:44:25 INFO  IronBankMain:33 - =========================
+2019-08-30 11:44:25 INFO  IronBankMain:34 - Enter your credentials to continue
+2019-08-30 11:44:25 INFO  IronBankMain:22 - Enter your username...
+2019-08-30 11:44:29 INFO  IronBankMain:24 - Enter your password...
+2019-08-30 11:44:30 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 11:44:30 INFO  IronBankMain:22 - ==================
+2019-08-30 11:44:30 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 11:44:30 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 11:44:30 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 11:44:30 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 11:44:30 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 11:44:30 INFO  IronBankMain:28 - 6) Log out
+2019-08-30 11:44:32 INFO  IronBankMain:82 - Log out stub
+2019-08-30 11:44:32 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 11:44:32 INFO  IronBankMain:14 - ===========================
+2019-08-30 11:44:32 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 11:44:32 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 11:44:32 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 11:44:34 INFO  IronBankMain:32 - 
+
+Welcome back
+2019-08-30 11:44:34 INFO  IronBankMain:33 - =========================
+2019-08-30 11:44:34 INFO  IronBankMain:34 - Enter your credentials to continue
+2019-08-30 11:44:34 INFO  IronBankMain:22 - Enter your username...
+2019-08-30 11:44:36 INFO  IronBankMain:24 - Enter your password...
+2019-08-30 11:44:37 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 11:44:37 INFO  IronBankMain:22 - ==================
+2019-08-30 11:44:37 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 11:44:37 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 11:44:37 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 11:44:37 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 11:44:37 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 11:44:37 INFO  IronBankMain:28 - 6) Log out
+2019-08-30 11:44:40 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 11:44:40 INFO  IronBankMain:22 - ==================
+2019-08-30 11:44:40 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 11:44:40 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 11:44:40 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 11:44:40 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 11:44:40 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 11:44:40 INFO  IronBankMain:28 - 6) Log out
+2019-08-30 13:55:10 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 13:55:10 INFO  IronBankMain:14 - ===========================
+2019-08-30 13:55:10 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 13:55:10 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 13:55:10 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 13:55:12 INFO  IronBankMain:82 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 13:55:12 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 13:55:12 INFO  IronBankMain:14 - ===========================
+2019-08-30 13:55:12 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 13:55:12 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 13:55:12 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 13:55:31 INFO  IronBankMain:35 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 13:55:31 INFO  IronBankMain:36 - ) Enter your first name
+2019-08-30 13:55:35 INFO  IronBankMain:39 - ) Enter last name
+2019-08-30 13:55:39 INFO  IronBankMain:42 - ) Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 13:56:17 INFO  IronBankMain:47 - ) Enter your email address, this will serve as your username when logging in
+2019-08-30 13:56:26 INFO  IronBankMain:50 - ) Enter your home address
+2019-08-30 13:56:32 INFO  IronBankMain:53 - ) Enter your City
+2019-08-30 13:56:32 INFO  IronBankMain:56 - ) Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 13:56:32 INFO  IronBankMain:59 - 7 of 9) Enter your ZIP code
+2019-08-30 13:57:51 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 13:57:51 INFO  IronBankMain:14 - ===========================
+2019-08-30 13:57:51 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 13:57:51 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 13:57:51 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 13:57:59 INFO  IronBankMain:35 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 13:57:59 INFO  IronBankMain:36 - Enter your first name
+2019-08-30 13:58:02 INFO  IronBankMain:39 - Enter last name
+2019-08-30 13:58:13 INFO  IronBankMain:42 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 14:00:42 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:00:42 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:00:42 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:00:42 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:00:42 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:00:45 INFO  IronBankMain:32 - 
+
+Welcome back
+2019-08-30 14:00:45 INFO  IronBankMain:33 - =========================
+2019-08-30 14:00:45 INFO  IronBankMain:34 - Enter your credentials to continue
+2019-08-30 14:00:45 INFO  IronBankMain:25 - Enter your username...
+2019-08-30 14:00:51 INFO  IronBankMain:27 - Enter your password...
+2019-08-30 14:00:52 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 14:00:52 INFO  IronBankMain:22 - ==================
+2019-08-30 14:00:52 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 14:00:52 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 14:00:52 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 14:00:52 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 14:00:52 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 14:00:52 INFO  IronBankMain:28 - 6) Log out
+2019-08-30 14:00:55 INFO  IronBankMain:116 - Log out stub
+2019-08-30 14:00:55 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:00:55 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:00:55 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:00:55 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:00:55 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:01:00 INFO  IronBankMain:35 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 14:01:00 INFO  IronBankMain:37 - Enter your first name
+2019-08-30 14:01:13 INFO  IronBankMain:40 - Enter last name
+2019-08-30 14:01:24 INFO  IronBankMain:43 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 14:18:44 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:18:44 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:18:44 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:18:44 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:18:44 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:18:47 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 14:18:47 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 14:18:50 INFO  IronBankMain:41 - Enter last name
+2019-08-30 14:18:51 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 14:19:01 INFO  IronBankMain:49 - Enter your email address, this will serve as your username when logging in
+2019-08-30 14:19:05 INFO  IronBankMain:52 - Enter your home address
+2019-08-30 14:19:12 INFO  IronBankMain:55 - Enter your City
+2019-08-30 14:19:12 INFO  IronBankMain:58 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 14:19:12 INFO  IronBankMain:61 - Enter your ZIP code
+2019-08-30 14:19:19 INFO  IronBankMain:73 - Invalid input type...Please try again
+2019-08-30 14:19:19 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:19:19 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:19:19 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:19:19 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:19:19 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:19:19 INFO  IronBankMain:88 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 14:19:19 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:19:19 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:19:19 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:19:19 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:19:19 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:20:03 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:20:03 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:20:03 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:20:03 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:20:03 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:20:43 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 14:20:43 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 14:20:45 INFO  IronBankMain:41 - Enter last name
+2019-08-30 14:20:47 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 14:20:51 INFO  IronBankMain:49 - Enter your email address, this will serve as your username when logging in
+2019-08-30 14:20:53 INFO  IronBankMain:52 - Enter your home address
+2019-08-30 14:20:54 INFO  IronBankMain:55 - Enter your City
+2019-08-30 14:21:22 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:21:22 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:21:22 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:21:22 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:21:22 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:21:25 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 14:21:25 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 14:21:27 INFO  IronBankMain:41 - Enter last name
+2019-08-30 14:21:28 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 14:21:31 INFO  IronBankMain:49 - Enter your email address, this will serve as your username when logging in
+2019-08-30 14:21:35 INFO  IronBankMain:52 - Enter your home address
+2019-08-30 14:21:41 INFO  IronBankMain:55 - Enter your City
+2019-08-30 14:21:41 INFO  IronBankMain:58 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 14:21:41 INFO  IronBankMain:61 - Enter your ZIP code
+2019-08-30 14:22:02 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:22:02 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:22:02 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:22:02 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:22:02 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:22:06 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 14:22:06 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 14:22:08 INFO  IronBankMain:41 - Enter last name
+2019-08-30 14:22:08 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 14:22:10 INFO  IronBankMain:49 - Enter your email address, this will serve as your username when logging in
+2019-08-30 14:22:13 INFO  IronBankMain:52 - Enter your home address
+2019-08-30 14:22:18 INFO  IronBankMain:55 - Enter your City
+2019-08-30 14:22:59 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 14:22:59 INFO  IronBankMain:14 - ===========================
+2019-08-30 14:22:59 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 14:22:59 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 14:22:59 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 14:23:03 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 14:23:03 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 14:23:08 INFO  IronBankMain:41 - Enter last name
+2019-08-30 14:23:08 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 16:55:40 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 16:55:40 INFO  IronBankMain:14 - ===========================
+2019-08-30 16:55:40 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 16:55:40 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 16:55:40 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 16:55:45 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 16:55:45 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 16:55:47 INFO  IronBankMain:41 - Enter last name
+2019-08-30 16:55:48 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 16:55:50 INFO  IronBankMain:73 - Invalid input type...Please try again
+2019-08-30 16:55:50 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 16:55:50 INFO  IronBankMain:14 - ===========================
+2019-08-30 16:55:50 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 16:55:50 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 16:55:50 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 16:55:50 INFO  IronBankMain:88 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 16:55:50 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 16:55:50 INFO  IronBankMain:14 - ===========================
+2019-08-30 16:55:50 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 16:55:50 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 16:55:50 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 16:55:59 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 16:55:59 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 16:56:01 INFO  IronBankMain:41 - Enter last name
+2019-08-30 16:56:01 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 16:56:04 INFO  IronBankMain:49 - Enter your email address, this will serve as your username when logging in
+2019-08-30 16:56:39 INFO  IronBankMain:52 - Enter your home address
+2019-08-30 16:56:39 INFO  IronBankMain:55 - Enter your City
+2019-08-30 16:58:41 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 16:58:41 INFO  IronBankMain:14 - ===========================
+2019-08-30 16:58:41 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 16:58:41 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 16:58:41 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 16:58:44 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 16:58:44 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 16:58:46 INFO  IronBankMain:41 - Enter last name
+2019-08-30 16:58:46 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 16:58:49 INFO  IronBankMain:49 - Enter your email address, this will serve as your username when logging in
+2019-08-30 16:58:53 INFO  IronBankMain:52 - Enter your home address
+2019-08-30 16:59:05 INFO  IronBankMain:56 - Enter your City
+2019-08-30 16:59:11 INFO  IronBankMain:59 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 16:59:16 INFO  IronBankMain:62 - Enter your ZIP code
+2019-08-30 16:59:20 INFO  IronBankMain:65 - Enter your date of birth in the format of dd-mm-yyyy
+2019-08-30 16:59:27 INFO  IronBankMain:69 - ) Enter your social security number
+2019-08-30 16:59:30 INFO  IronBankMain:72 - UserDetails [firstName=asdf, lastName=asdf, contact=512, email=gauntta@gmail.com, address=170 Haverand Dr, city=Georgetown, state=TX, zip=78626, dob=Mon Oct 28 00:00:00 CST 1991, ssn=8311]
+2019-08-30 16:59:30 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 16:59:30 INFO  IronBankMain:14 - ===========================
+2019-08-30 16:59:30 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 16:59:30 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 16:59:30 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:00:54 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:00:54 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:00:54 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:00:54 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:00:54 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:00:56 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:00:56 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 17:00:59 INFO  IronBankMain:41 - Enter last name
+2019-08-30 17:01:00 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:01:01 INFO  IronBankMain:74 - Invalid input type...Please try again
+2019-08-30 17:01:01 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:01:01 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:01:01 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:01:01 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:01:01 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:01:01 INFO  IronBankMain:90 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 17:01:01 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:01:01 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:01:01 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:01:01 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:01:01 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:02:08 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:02:08 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:02:08 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:02:08 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:02:08 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:02:15 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:02:15 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 17:02:17 INFO  IronBankMain:41 - Enter last name
+2019-08-30 17:02:18 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:02:19 INFO  IronBankMain:74 - Invalid input type...Please try again
+2019-08-30 17:02:19 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:02:19 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:02:19 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:02:19 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:02:19 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:02:19 INFO  IronBankMain:90 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 17:02:19 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:02:19 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:02:19 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:02:19 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:02:19 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:02:57 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:02:57 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:02:57 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:02:57 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:02:57 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:02:59 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:02:59 INFO  IronBankMain:38 - Enter your first name
+2019-08-30 17:03:01 INFO  IronBankMain:41 - Enter last name
+2019-08-30 17:03:02 INFO  IronBankMain:44 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:03:04 INFO  IronBankMain:74 - Invalid input type...Please try again
+2019-08-30 17:03:04 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:03:04 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:03:04 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:03:04 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:03:04 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:03:04 INFO  IronBankMain:90 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 17:03:04 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:03:04 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:03:04 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:03:04 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:03:04 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:09:22 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:09:22 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:09:22 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:09:22 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:09:22 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:09:25 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:09:25 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:09:26 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:09:27 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:09:28 INFO  IronBankMain:76 - Invalid input type...Please try again
+2019-08-30 17:09:28 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:09:28 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:09:59 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:09:59 INFO  IronBankMain:76 - Invalid input type...Please try again
+2019-08-30 17:09:59 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:09:59 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:10:02 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:10:09 INFO  IronBankMain:51 - Enter your email address, this will serve as your username when logging in
+2019-08-30 17:10:12 INFO  IronBankMain:54 - Enter your home address
+2019-08-30 17:10:18 INFO  IronBankMain:58 - Enter your City
+2019-08-30 17:10:22 INFO  IronBankMain:61 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 17:10:25 INFO  IronBankMain:64 - Enter your ZIP code
+2019-08-30 17:10:33 INFO  IronBankMain:67 - Enter your date of birth in the format of dd-mm-yyyy
+2019-08-30 17:10:43 INFO  IronBankMain:71 - ) Enter your social security number
+2019-08-30 17:10:53 INFO  IronBankMain:74 - UserDetails [firstName=Gauntt, lastName=sdf, contact=512, email=gauntta, address=170 Haverland Dr, city=georgetown, state=TX, zip=78626, dob=Mon Oct 28 00:00:00 CST 1991, ssn=123456789]
+2019-08-30 17:10:53 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:12:03 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:12:03 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:12:03 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:12:03 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:12:03 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:12:05 INFO  IronBankMain:36 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:12:05 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:12:09 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:12:11 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:12:17 INFO  IronBankMain:76 - Invalid input type...Please try again
+2019-08-30 17:12:17 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:12:17 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:12:31 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:12:34 INFO  IronBankMain:51 - Enter your email address, this will serve as your username when logging in
+2019-08-30 17:12:36 INFO  IronBankMain:54 - Enter your home address
+2019-08-30 17:12:40 INFO  IronBankMain:58 - Enter your City
+2019-08-30 17:12:43 INFO  IronBankMain:61 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 17:12:46 INFO  IronBankMain:64 - Enter your ZIP code
+2019-08-30 17:12:52 INFO  IronBankMain:67 - Enter your date of birth in the format of dd-mm-yyyy
+2019-08-30 17:12:59 INFO  IronBankMain:71 - ) Enter your social security number
+2019-08-30 17:13:03 INFO  IronBankMain:74 - UserDetails [firstName=notanumber, lastName=Gauntt, contact=512, email=gauntta, address=170 hav, city=gtown, state=tx, zip=78626, dob=Mon Oct 28 00:00:00 CST 1991, ssn=123456789]
+2019-08-30 17:13:03 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:14:04 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:14:04 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:14:04 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:14:04 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:14:04 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:14:08 INFO  IronBankMain:38 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:14:08 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:14:09 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:14:12 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:14:18 INFO  IronBankMain:51 - Enter your email address, this will serve as your username when logging in
+2019-08-30 17:14:22 INFO  IronBankMain:54 - Enter your home address
+2019-08-30 17:14:26 INFO  IronBankMain:58 - Enter your City
+2019-08-30 17:14:28 INFO  IronBankMain:61 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 17:14:31 INFO  IronBankMain:64 - Enter your ZIP code
+2019-08-30 17:14:38 INFO  IronBankMain:76 - Invalid input type...Please try again
+2019-08-30 17:14:38 INFO  IronBankMain:38 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:14:38 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:14:38 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:21:48 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:21:48 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:21:48 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:21:48 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:21:48 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:21:51 INFO  IronBankMain:38 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:21:51 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:21:53 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:21:56 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:21:59 INFO  IronBankMain:51 - Enter your email address, this will serve as your username when logging in
+2019-08-30 17:22:03 INFO  IronBankMain:79 - Invalid input type...Please try again
+2019-08-30 17:22:03 INFO  IronBankMain:38 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:22:03 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:23:03 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:23:03 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:23:03 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:23:03 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:23:03 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:23:07 INFO  IronBankMain:38 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:23:07 INFO  IronBankMain:40 - Enter your first name
+2019-08-30 17:23:09 INFO  IronBankMain:43 - Enter last name
+2019-08-30 17:23:11 INFO  IronBankMain:46 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:24:29 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:24:29 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:24:29 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:24:29 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:24:29 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:24:31 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:24:31 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 17:24:35 INFO  IronBankMain:44 - Enter last name
+2019-08-30 17:24:36 INFO  IronBankMain:47 - Enter your primary phone number ** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 17:59:05 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 17:59:05 INFO  IronBankMain:14 - ===========================
+2019-08-30 17:59:05 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 17:59:05 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 17:59:05 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 17:59:10 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 17:59:10 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 17:59:13 INFO  IronBankMain:44 - Enter last name
+2019-08-30 17:59:15 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**");
+2019-08-30 18:00:52 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:00:52 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:00:52 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:00:52 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:00:52 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:00:54 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:00:54 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:00:57 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:00:59 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:01:09 INFO  IronBankMain:101 - 
+Input should only be numeric only..Please try again
+
+2019-08-30 18:01:09 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:01:09 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:01:09 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:01:09 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:01:09 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:01:53 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:01:53 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:01:53 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:01:53 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:01:53 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:01:58 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:01:58 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:02:00 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:02:02 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:03:11 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:03:11 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:03:11 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:03:11 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:03:11 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:03:14 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:03:14 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:03:17 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:03:18 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:03:51 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:03:51 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:03:51 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:03:51 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:03:51 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:03:54 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:03:54 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:03:56 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:03:57 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:04:08 INFO  IronBankMain:56 - Enter your email address, this will serve as your username when logging in
+2019-08-30 18:04:29 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:04:29 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:04:29 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:04:29 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:04:29 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:05:46 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:05:46 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:05:46 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:05:46 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:05:46 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:05:48 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:05:48 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:05:49 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:05:50 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:07:35 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:07:35 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:07:35 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:07:35 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:07:35 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:07:38 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:07:38 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:07:40 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:07:40 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:13:20 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:13:20 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:13:20 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:13:20 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:13:20 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 18:13:25 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-08-30 18:13:25 INFO  IronBankMain:41 - Enter your first name
+2019-08-30 18:13:27 INFO  IronBankMain:44 - Enter last name
+2019-08-30 18:13:28 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-08-30 18:14:10 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-08-30 18:14:17 INFO  IronBankMain:61 - Enter your home address
+2019-08-30 18:14:23 INFO  IronBankMain:65 - Enter your City
+2019-08-30 18:14:32 INFO  IronBankMain:68 - Enter your State's two letter State abbreviation EX: TX, CA, TN, etc...
+2019-08-30 18:14:59 INFO  IronBankMain:71 - Enter your ZIP code
+2019-08-30 18:15:05 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-08-30 18:15:53 INFO  IronBankMain:78 - ) Enter your social security number
+2019-08-30 18:16:05 INFO  IronBankMain:81 - UserDetails [firstName=Aaron, lastName=Gauntt, contact=512-869-9553, email=gauntta@gmail.com, address=170 Haverland Dr, city=Georgetown, state=TX, zip=78626, dob=Mon Oct 28 00:00:00 CST 1991, ssn=123456789]
+2019-08-30 18:16:05 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 18:16:05 INFO  IronBankMain:14 - ===========================
+2019-08-30 18:16:05 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 18:16:05 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 18:16:05 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 14:03:49 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 14:03:49 INFO  IronBankMain:14 - ===========================
+2019-09-01 14:03:49 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 14:03:49 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 14:03:49 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 14:03:58 INFO  IronBankMain:32 - 
+
+Welcome back
+2019-09-01 14:03:58 INFO  IronBankMain:33 - =========================
+2019-09-01 14:03:58 INFO  IronBankMain:34 - Enter your credentials to continue
+2019-09-01 14:03:58 INFO  IronBankMain:27 - Enter your username...
+2019-09-01 14:04:00 INFO  IronBankMain:29 - Enter your password...
+2019-09-01 14:04:01 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-09-01 14:04:01 INFO  IronBankMain:22 - ==================
+2019-09-01 14:04:01 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-01 14:04:01 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-01 14:04:01 INFO  IronBankMain:25 - 3) View account balance
+2019-09-01 14:04:01 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-01 14:04:01 INFO  IronBankMain:27 - 5) View account details
+2019-09-01 14:04:01 INFO  IronBankMain:28 - 6) Log out
+2019-09-01 14:04:05 INFO  IronBankMain:132 - Log out stub
+2019-09-01 14:04:05 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 14:04:05 INFO  IronBankMain:14 - ===========================
+2019-09-01 14:04:05 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 14:04:05 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 14:04:05 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 14:04:09 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 14:04:09 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 14:04:11 INFO  IronBankMain:44 - Enter last name
+2019-09-01 14:04:13 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 14:04:24 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 14:04:28 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 14:04:33 INFO  IronBankMain:65 - Enter your City
+2019-09-01 14:04:36 INFO  IronBankMain:68 - Enter your State
+2019-09-01 14:04:42 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 14:04:49 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 14:04:56 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 14:05:05 INFO  IronBankMain:81 - UserDetails [First name=null, last Name=null, contact number=null, email=null, address=null, city=null, state=null, zip=0, date of birth=null, SSN=0]
+2019-09-01 14:05:05 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 14:05:05 INFO  IronBankMain:14 - ===========================
+2019-09-01 14:05:05 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 14:05:05 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 14:05:05 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 14:07:07 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 14:07:07 INFO  IronBankMain:14 - ===========================
+2019-09-01 14:07:07 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 14:07:07 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 14:07:07 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 14:07:09 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 14:07:09 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 14:07:12 INFO  IronBankMain:44 - Enter last name
+2019-09-01 14:07:14 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 14:07:22 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 14:07:27 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 14:07:33 INFO  IronBankMain:65 - Enter your City
+2019-09-01 14:07:36 INFO  IronBankMain:68 - Enter your State
+2019-09-01 14:07:39 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 14:07:45 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 14:08:01 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 14:08:07 INFO  IronBankMain:81 - UserDetails [First name=Aaron, last Name=Gauntt, contact number=512-869-9553, email=gauntta@gmail.com, address=170 Haverland Dr, city=Georgetown, state=Texas, zip=78626, date of birth=Mon Oct 28 00:00:00 CST 1991, SSN=123456789]
+2019-09-01 14:08:07 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 14:08:07 INFO  IronBankMain:14 - ===========================
+2019-09-01 14:08:07 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 14:08:07 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 14:08:07 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:09:03 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:09:03 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:09:03 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:09:03 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:09:03 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:09:05 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 20:09:05 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 20:09:07 INFO  IronBankMain:44 - Enter last name
+2019-09-01 20:09:09 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 20:09:17 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 20:09:21 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 20:09:30 INFO  IronBankMain:65 - Enter your City
+2019-09-01 20:09:33 INFO  IronBankMain:68 - Enter your State
+2019-09-01 20:09:36 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 20:09:42 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 20:09:50 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 20:09:56 INFO  IronBankMain:81 - Thank you. Please confirm the information provided is correct...
+2019-09-01 20:09:56 INFO  IronBankMain:83 - First name = Aaron
+ Last name = Gauntt
+ contact number = 512-869-9553
+ email = gauntta@gmail.com
+ address = 170 Haverland Dr
+ city = Georgetown
+ state = Texas
+ ZIP = 78626
+ date of birth = Mon Oct 28 00:00:00 CST 1991
+ SSN = 123456789
+2019-09-01 20:09:56 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:09:56 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:09:56 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:09:56 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:09:56 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:11:39 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:11:39 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:11:39 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:11:39 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:11:39 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:11:42 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 20:11:42 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 20:11:44 INFO  IronBankMain:44 - Enter last name
+2019-09-01 20:11:45 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 20:11:54 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 20:12:04 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 20:12:09 INFO  IronBankMain:65 - Enter your City
+2019-09-01 20:12:12 INFO  IronBankMain:68 - Enter your State
+2019-09-01 20:12:14 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 20:12:32 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 20:12:41 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 20:12:45 INFO  IronBankMain:81 - Thank you. Please confirm the information provided is correct...
+2019-09-01 20:12:45 INFO  IronBankMain:83 - Name = Aaron Gauntt
+Contact number = 512-869-9553
+Email Address = gauntta@gmail.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 78626
+Date of birth = Mon Oct 28 00:00:00 CST 1991
+SSN = 123456789
+2019-09-01 20:12:45 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:12:45 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:12:45 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:12:45 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:12:45 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:20:09 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:20:09 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:20:09 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:20:09 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:20:09 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:20:12 INFO  IronBankMain:32 - 
+
+Welcome back
+2019-09-01 20:20:12 INFO  IronBankMain:33 - =========================
+2019-09-01 20:20:12 INFO  IronBankMain:34 - Enter your credentials to continue
+2019-09-01 20:20:12 INFO  IronBankMain:27 - Enter your username...
+2019-09-01 20:20:18 INFO  IronBankMain:29 - Enter your password...
+2019-09-01 20:20:19 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-09-01 20:20:19 INFO  IronBankMain:22 - ==================
+2019-09-01 20:20:19 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-01 20:20:19 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-01 20:20:19 INFO  IronBankMain:25 - 3) View account balance
+2019-09-01 20:20:19 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-01 20:20:19 INFO  IronBankMain:27 - 5) View account details
+2019-09-01 20:20:19 INFO  IronBankMain:28 - 6) Log out
+2019-09-01 20:37:59 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:37:59 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:37:59 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:37:59 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:37:59 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:38:02 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 20:38:02 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 20:38:04 INFO  IronBankMain:44 - Enter last name
+2019-09-01 20:38:05 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 20:39:14 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:39:14 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:39:14 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:39:14 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:39:14 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:39:17 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 20:39:17 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 20:39:19 INFO  IronBankMain:44 - Enter last name
+2019-09-01 20:39:21 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 20:39:29 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 20:39:33 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 20:39:37 INFO  IronBankMain:65 - Enter your City
+2019-09-01 20:39:41 INFO  IronBankMain:68 - Enter your State
+2019-09-01 20:39:44 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 20:40:05 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 20:40:14 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 20:40:24 INFO  IronBankMain:81 - Thank you. Please confirm the information provided is correct...
+2019-09-01 20:40:24 INFO  IronBankMain:85 - 
+Name = Aaron Gauntt
+Contact number = 512-869-9553
+Email Address = gauntta@gmail.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 78626
+Date of birth = Mon Oct 28 00:00:00 CST 1991
+SSN = 123456789
+2019-09-01 20:40:24 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 20:40:32 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 20:40:32 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 20:40:39 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 20:40:39 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 20:42:24 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:42:24 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:42:24 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:42:24 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:42:24 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 20:42:29 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 20:42:29 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 20:42:30 INFO  IronBankMain:44 - Enter last name
+2019-09-01 20:42:30 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 20:42:39 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 20:42:54 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 20:42:59 INFO  IronBankMain:65 - Enter your City
+2019-09-01 20:43:03 INFO  IronBankMain:68 - Enter your State
+2019-09-01 20:43:05 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 20:43:09 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 20:43:19 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 20:43:27 INFO  IronBankMain:81 - Thank you. Please confirm the information provided is correct...
+2019-09-01 20:43:27 INFO  IronBankMain:85 - 
+Name = asdf asdf
+Contact number = 512-869-9553
+Email Address = gauntta@gmail.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 78626
+Date of birth = Mon Oct 28 00:00:00 CST 1991
+SSN = 123456789
+2019-09-01 20:43:27 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 20:43:33 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 20:43:33 INFO  IronBankMain:99 - N
+2019-09-01 20:43:33 INFO  IronBankMain:110 - Personal details portion completed successfully
+2019-09-01 20:43:33 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 20:43:33 INFO  IronBankMain:14 - ===========================
+2019-09-01 20:43:33 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 20:43:33 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 20:43:33 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 21:03:09 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 21:03:09 INFO  IronBankMain:14 - ===========================
+2019-09-01 21:03:09 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 21:03:09 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 21:03:09 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 21:03:15 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 21:03:15 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 21:03:18 INFO  IronBankMain:44 - Enter last name
+2019-09-01 21:03:20 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 21:03:41 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 21:03:46 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 21:03:53 INFO  IronBankMain:65 - Enter your City
+2019-09-01 21:03:57 INFO  IronBankMain:68 - Enter your State
+2019-09-01 21:04:00 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 21:04:04 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 21:04:26 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 21:04:32 INFO  IronBankMain:81 - Thank you. Please confirm the information provided is correct...
+2019-09-01 21:04:32 INFO  IronBankMain:85 - 
+Name = Aaron Gauntt
+Contact number = 512-869-9553
+Email Address = gauntta@gmail.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 78626
+Date of birth = Mon Oct 28 00:00:00 CST 1991
+SSN = 123456789
+2019-09-01 21:04:32 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:06:17 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 21:06:17 INFO  IronBankMain:99 - N
+2019-09-01 21:06:17 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:06:26 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 21:06:26 INFO  IronBankMain:99 - Y
+2019-09-01 21:06:26 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:09:05 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 21:09:05 INFO  IronBankMain:99 - Y
+2019-09-01 21:09:05 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:12:00 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-01 21:12:00 INFO  IronBankMain:14 - ===========================
+2019-09-01 21:12:00 INFO  IronBankMain:15 - 1) Log in
+2019-09-01 21:12:00 INFO  IronBankMain:16 - 2) Create account
+2019-09-01 21:12:00 INFO  IronBankMain:17 - 3) Exit
+2019-09-01 21:12:06 INFO  IronBankMain:39 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-01 21:12:06 INFO  IronBankMain:41 - Enter your first name
+2019-09-01 21:16:12 INFO  IronBankMain:44 - Enter last name
+2019-09-01 21:16:12 INFO  IronBankMain:47 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-01 21:16:23 INFO  IronBankMain:55 - Enter your email address, this will serve as your username when logging in
+2019-09-01 21:16:28 INFO  IronBankMain:61 - Enter your home address
+2019-09-01 21:16:34 INFO  IronBankMain:65 - Enter your City
+2019-09-01 21:16:37 INFO  IronBankMain:68 - Enter your State
+2019-09-01 21:16:39 INFO  IronBankMain:71 - Enter your ZIP code
+2019-09-01 21:16:43 INFO  IronBankMain:74 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-01 21:16:51 INFO  IronBankMain:78 - ) Enter your social security number
+2019-09-01 21:16:56 INFO  IronBankMain:81 - Thank you. Please confirm the information provided is correct...
+2019-09-01 21:16:56 INFO  IronBankMain:85 - 
+Name = asdf asdf
+Contact number = 512-869-9553
+Email Address = gauntta@gmail.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 78626
+Date of birth = Mon Oct 28 00:00:00 CST 1991
+SSN = 123456789
+2019-09-01 21:16:56 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:17:05 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 21:17:05 INFO  IronBankMain:99 - Y
+2019-09-01 21:17:05 INFO  IronBankMain:101 - Boolean to leave details section true
+2019-09-01 21:17:05 INFO  IronBankMain:102 - Boolean to leave confirmation check false
+2019-09-01 21:17:05 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:19:05 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 21:19:05 INFO  IronBankMain:99 - N
+2019-09-01 21:19:05 INFO  IronBankMain:101 - Boolean to leave details section true
+2019-09-01 21:19:05 INFO  IronBankMain:102 - Boolean to leave confirmation check false
+2019-09-01 21:19:05 INFO  IronBankMain:88 - Is everything correct? [Y / N]
+2019-09-01 21:19:10 INFO  IronBankMain:98 - Invalid response, please enter either 'Y' or 'N'
+2019-09-01 21:19:10 INFO  IronBankMain:99 - Y
+2019-09-01 21:19:10 INFO  IronBankMain:101 - Boolean to leave details section true
+2019-09-01 21:19:10 INFO  IronBankMain:102 - Boolean to leave confirmation check false
+2019-09-01 21:19:10 INFO  IronBankMain:88 - Is everything correct? [Y / N]

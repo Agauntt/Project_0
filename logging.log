@@ -1,0 +1,41 @@
+2019-08-30 11:22:43 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 11:22:43 INFO  IronBankMain:14 - ===========================
+2019-08-30 11:22:43 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 11:22:43 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 11:22:43 INFO  IronBankMain:17 - 3) Exit
+2019-08-30 11:22:53 INFO  IronBankMain:33 - 
+
+Welcome back
+2019-08-30 11:22:53 INFO  IronBankMain:34 - =========================
+2019-08-30 11:22:53 INFO  IronBankMain:35 - Enter your credentials to continue
+2019-08-30 11:22:53 INFO  IronBankMain:21 - Enter your username...
+2019-08-30 11:22:55 INFO  IronBankMain:23 - Enter your password...
+2019-08-30 11:22:58 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 11:22:58 INFO  IronBankMain:22 - ==================
+2019-08-30 11:22:58 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 11:22:58 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 11:22:58 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 11:22:58 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 11:22:58 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 11:22:58 INFO  IronBankMain:28 - 6) Return to login screen
+2019-08-30 11:22:58 INFO  IronBankMain:29 - 7) Log out
+2019-08-30 11:23:02 INFO  IronBankMain:84 - Invalid response stub
+2019-08-30 11:23:02 INFO  IronBankMain:21 - 
+
+Main Menu
+2019-08-30 11:23:02 INFO  IronBankMain:22 - ==================
+2019-08-30 11:23:02 INFO  IronBankMain:23 - 1) Make a deposit
+2019-08-30 11:23:02 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-08-30 11:23:02 INFO  IronBankMain:25 - 3) View account balance
+2019-08-30 11:23:02 INFO  IronBankMain:26 - 4) View transaction history
+2019-08-30 11:23:02 INFO  IronBankMain:27 - 5) View account details
+2019-08-30 11:23:02 INFO  IronBankMain:28 - 6) Return to login screen
+2019-08-30 11:23:02 INFO  IronBankMain:29 - 7) Log out
+2019-08-30 11:23:15 INFO  IronBankMain:81 - Log out stub
+2019-08-30 11:23:15 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-08-30 11:23:15 INFO  IronBankMain:14 - ===========================
+2019-08-30 11:23:15 INFO  IronBankMain:15 - 1) Log in
+2019-08-30 11:23:15 INFO  IronBankMain:16 - 2) Create account
+2019-08-30 11:23:15 INFO  IronBankMain:17 - 3) Exit

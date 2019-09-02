@@ -18,7 +18,7 @@ import com.iron_bank.main.IronBankMain;
 		}
 		
 		public static void MainMenu() {
-			log.info("\n\nMain Menu");  // Maybe add "welcome back + firstName"
+			log.info("Main Menu");  // Maybe add "welcome back + firstName"
  			log.info("==================");
 			log.info("1) Make a deposit");
 			log.info("2) Make a withdrawal");
@@ -29,7 +29,7 @@ import com.iron_bank.main.IronBankMain;
 		}
 		
 		public static void LoginMenu() {
-			log.info("\n\nWelcome back");
+			log.info("Main Menu");
 			log.info("=========================");
 			log.info("Enter your credentials to continue");
 		}

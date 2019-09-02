@@ -33,7 +33,7 @@ public class UserDaoImpl implements UserDAO{
 	@Override
 	public UserDetails registerDetails(UserDetails uDetails) throws BusinessException {
 		try (Connection connection = OracleConnection.getConnection()){
-			String sql = "{call register_User(?,?,?,?,?,?,?,?,?,?,?,?,?)}";
+			String sql = "{call register_User(?,?,?,?,?,?,?,?,?,?,?,?,?,?)}";
 			CallableStatement callableStatement = connection.prepareCall(sql);
 			callableStatement.setString(2, uDetails.getUserName());
 			callableStatement.setString(3, uDetails.getPassWord());

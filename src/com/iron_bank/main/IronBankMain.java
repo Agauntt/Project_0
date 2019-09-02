@@ -1,11 +1,12 @@
 package com.iron_bank.main;
 
-import java.sql.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
+import com.iron_bank.dao.UserDAO;
+import com.iron_bank.dao.impl.UserDaoImpl;
 import com.iron_bank.exceptions.BusinessException;
 import com.iron_bank.main.menus.Menus;
 import com.iron_bank.model.UserDetails;
@@ -28,13 +29,13 @@ public class IronBankMain implements Menus{
 				String username = sc.next();
 				log.info("Enter your password...");
 				String password = sc.next();
-//				log.info("Username = " + username + "\nPassword = " + password);
 				// Code to service layer
-				mainMenu();
+//				mainMenu();
 				
 				break;
 			case 2:
-				boolean b = true;
+				UserDetails uDetails = new UserDetails();
+				int signupCheck = 0;
 				do {
 				log.info("\nThank you for choosing the Iron Bank as your financial institution");
 				try {
@@ -75,41 +76,78 @@ public class IronBankMain implements Menus{
 				String s = sc.next();
 				SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
 				
-				log.info(") Enter your social security number");
+				log.info("Enter your social security number");
 				int ssn = sc.nextInt();
 				
-				log.info("Thank you. Please confirm the information provided is correct...");
+				log.info("\nThank you. Please confirm the information provided is correct...");
 				
-				UserDetails uDetails = new UserDetails(firstName, lastName, contact, email, address, city, state, zip, sdf.parse(s), ssn);
-				
+				uDetails = new UserDetails(firstName, lastName, contact, email, address, city, state, zip, sdf.parse(s), ssn);
+				uDetails.setUserName(email);
 				log.info("\n"+uDetails.toStringDetails());
-				boolean b1 = false;
+				int confirmCheck = 0;
 				do {
 					log.info("Is everything correct? [Y / N]");
 					String confirm = sc.next();
 					confirm = confirm.toUpperCase();
-					if (confirm == "Y") {
-						b1 = true;
-						b = true;
+					if (confirm.equals("Y")) {
+						confirmCheck = 1;
+						signupCheck = 1;
 						log.info("Info captured");
-					} else if(confirm == "N") {
+					} else if(confirm.equals("N")) {
 						log.info("Please re-enter your personal information");
+						
 					} else {
 						log.info("Invalid response, please enter either 'Y' or 'N'");
 						log.info(confirm);
 					}
-					log.info("Boolean to leave details section "+b);
-					log.info("Boolean to leave confirmation check "+b1);
-				} while (b1 = false);
+//					log.info("Boolean to leave details section "+b);
+//					log.info("Boolean to leave confirmation check "+b1);
+				} while (confirmCheck != 1);
 
 				} catch (BusinessException | ParseException e){
 					System.out.println(e);
-//					throw new BusinessException("Invalid");
-////					b = false;
 				}
-			} while (b = false);
+//				log.info("Final line before end of do/while statement...b = "+b);
+			} while (signupCheck != 1);
+				int passLoop = 0;
+				do {
+					log.info("\nPerfect! Now enter a password for your account...Please do your best to remember it");
+					String pass = sc.next();
+					log.info("Please re-enter your password to confirm...");
+					String passCheck = sc.next();
+					if (pass.equals(passCheck)) {
+						log.info("Password verified");
+						passLoop = 1;
+						uDetails.setPassWord(pass);
+					} else {
+						log.info("Passwords do not match...Please try again");
+					}
+				} while(passLoop != 1);
+				
+				log.info("Finally, please select a 4-digit PIN number");
+				uDetails.setPin(sc.nextInt());
+				// ======= TEST BLOCK =============
+				log.info(uDetails.getUserName());
+				log.info(uDetails.getPassWord());
+				log.info(uDetails.getPin());
+				log.info(uDetails.getFirstName());
+				log.info(uDetails.getLastName());
+				log.info(uDetails.getContact());
+				log.info(uDetails.getEmail());
+				log.info(uDetails.getAddress());
+				log.info(uDetails.getCity());
+				log.info(uDetails.getState());
+				log.info(uDetails.getZip());
+				log.info(uDetails.getDob());
+				log.info(uDetails.getSsn());
 				try {
-					log.info("Personal details portion completed successfully");
+					UserDaoImpl dao = new UserDaoImpl();
+					uDetails = dao.registerDetails(uDetails);
+					if(uDetails.getAcctId()!=0) {
+						log.info("User added with the following details...");
+						log.info(uDetails);
+						mainMenu(uDetails);
+					}
 				} catch (Exception e) {
 					// TODO: handle exception
 				}
@@ -121,16 +159,17 @@ public class IronBankMain implements Menus{
 				break;
 			}
 			} catch (NumberFormatException e) {
-				log.info("\nInput should only be numeric only..Please try again\n");
+				log.info("\nInput should be numeric only..Please try again\n");
 			}
 		} while(ch!=3);
 		
 	}
 	
-	public static void mainMenu() {
+	public static void mainMenu(UserDetails user) {
 		
 		Scanner sc = new Scanner(System.in);
 		int ch = 0;
+		log.info("Welcome back " + user.getFirstName());
 		do {
 			Menus.MainMenu();
 			try {

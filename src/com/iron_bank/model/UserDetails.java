@@ -15,6 +15,10 @@ public class UserDetails extends User {
 	private Date dob;
 	private int ssn;
 	
+	public UserDetails() {
+		// Blank constructor
+	}
+	
 	public UserDetails(Long acctId, String userName, String passWord, int pin, String firstName, String lastName, String contact, String email, String address, String city,
 			String state, int zip, Date dob, int ssn) {
 		super(acctId, userName, passWord, pin);

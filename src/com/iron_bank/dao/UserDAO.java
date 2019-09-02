@@ -7,6 +7,6 @@ import com.iron_bank.model.UserDetails;
 public interface UserDAO {
 
 	public UserDetails registerDetails(UserDetails uDetails) throws BusinessException;
-	
+	public User authUser(User user) throws BusinessException;
 
 }

@@ -25,7 +25,9 @@ import com.iron_bank.main.IronBankMain;
 			log.info("3) View account balance");
 			log.info("4) View transaction history");
 			log.info("5) View account details");
-			log.info("6) Log out");
+			log.info("6) Open new checking account");
+			log.info("7) Open new savings account");
+			log.info("8) Log out");
 		}
 		
 		public static void LoginMenu() {

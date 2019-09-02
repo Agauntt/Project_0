@@ -1,15 +1,21 @@
 package com.iron_bank.main;
 
+import java.util.Calendar;
+import java.util.List;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
+import java.time.*;
 
-import com.iron_bank.dao.UserDAO;
+import com.iron_bank.dao.impl.AccountDaoImpl;
 import com.iron_bank.dao.impl.UserDaoImpl;
 import com.iron_bank.exceptions.BusinessException;
 import com.iron_bank.main.menus.Menus;
+import com.iron_bank.model.Account;
+import com.iron_bank.model.User;
 import com.iron_bank.model.UserDetails;
+import com.iron_bank.service.impl.test.IronBankServiceImpl;
 
 public class IronBankMain implements Menus{
 	
@@ -17,6 +23,7 @@ public class IronBankMain implements Menus{
 
 	public static void main(String[] args) throws BusinessException {
 		Scanner sc = new Scanner(System.in);
+		IronBankServiceImpl service = new IronBankServiceImpl();
 		int ch = 0;
 		do {
 			Menus.IntroMenu();
@@ -25,13 +32,14 @@ public class IronBankMain implements Menus{
 			switch (ch) {
 			case 1: 
 				Menus.LoginMenu();
+				User user = new User();
 				log.info("Enter your username...");
-				String username = sc.next();
+				user.setUserName(sc.next());
 				log.info("Enter your password...");
 				String password = sc.next();
-				// Code to service layer
-//				mainMenu();
-				
+				String hashpass = service.hashBrowns(password);
+				user.setPassWord(hashpass);
+				service.login(user);
 				break;
 			case 2:
 				UserDetails uDetails = new UserDetails();
@@ -100,25 +108,25 @@ public class IronBankMain implements Menus{
 						log.info("Invalid response, please enter either 'Y' or 'N'");
 						log.info(confirm);
 					}
-//					log.info("Boolean to leave details section "+b);
-//					log.info("Boolean to leave confirmation check "+b1);
+
 				} while (confirmCheck != 1);
 
 				} catch (BusinessException | ParseException e){
 					System.out.println(e);
 				}
-//				log.info("Final line before end of do/while statement...b = "+b);
 			} while (signupCheck != 1);
 				int passLoop = 0;
 				do {
-					log.info("\nPerfect! Now enter a password for your account...Please do your best to remember it");
+					log.info("\nEnter a password for your account...Please do your best to remember it");
 					String pass = sc.next();
 					log.info("Please re-enter your password to confirm...");
 					String passCheck = sc.next();
 					if (pass.equals(passCheck)) {
 						log.info("Password verified");
 						passLoop = 1;
-						uDetails.setPassWord(pass);
+						IronBankServiceImpl hash = new IronBankServiceImpl();
+						String hashedpass = hash.hashBrowns(pass);
+						uDetails.setPassWord(hashedpass);
 					} else {
 						log.info("Passwords do not match...Please try again");
 					}
@@ -126,20 +134,7 @@ public class IronBankMain implements Menus{
 				
 				log.info("Finally, please select a 4-digit PIN number");
 				uDetails.setPin(sc.nextInt());
-				// ======= TEST BLOCK =============
-				log.info(uDetails.getUserName());
-				log.info(uDetails.getPassWord());
-				log.info(uDetails.getPin());
-				log.info(uDetails.getFirstName());
-				log.info(uDetails.getLastName());
-				log.info(uDetails.getContact());
-				log.info(uDetails.getEmail());
-				log.info(uDetails.getAddress());
-				log.info(uDetails.getCity());
-				log.info(uDetails.getState());
-				log.info(uDetails.getZip());
-				log.info(uDetails.getDob());
-				log.info(uDetails.getSsn());
+
 				try {
 					UserDaoImpl dao = new UserDaoImpl();
 					uDetails = dao.registerDetails(uDetails);
@@ -165,18 +160,34 @@ public class IronBankMain implements Menus{
 		
 	}
 	
-	public static void mainMenu(UserDetails user) {
-		
+	public static void mainMenu(User user) {
+		AccountDaoImpl acctDao = new AccountDaoImpl();
 		Scanner sc = new Scanner(System.in);
 		int ch = 0;
-		log.info("Welcome back " + user.getFirstName());
+		log.info("\nWelcome back " + user.getUserName());
 		do {
 			Menus.MainMenu();
 			try {
 				ch = Integer.parseInt(sc.next());
 			switch (ch) {
 			case 1:
-				log.info("Deposit Stub");
+				List<Account> aList = null;
+				int option = 0;
+				log.info("Please select the account you would like to deposit into");
+				try {
+					aList = new AccountDaoImpl().displayAccounts(user.getAcctId());
+					int c = 1;
+					for (Account a: aList) {
+						log.info((c++) + ") " + a.getAcctId() + " " + a.getBalance() + " " + a.getAcct_type());
+					}
+					option = Integer.parseInt(sc.next());
+					if (option > aList.size()) {
+						log.info("Invalid selection");
+					}
+				} catch (Exception e) {
+					log.info(e);
+				}
+				
 				break;
 			case 2:
 				log.info("Withdrawal Stub");
@@ -191,16 +202,34 @@ public class IronBankMain implements Menus{
 				log.info("View account details stub");
 				break;
 			case 6:
-				log.info("Log out stub");
+				log.info("Create New checking account? [Y / N]");
+				String c = sc.next().toUpperCase();
+				if (c.equals("Y")) {
+					double startingBal = 5.0;
+					java.util.Date currentDate = Calendar.getInstance().getTime();
+					Account acct = new Account(startingBal, currentDate, "Checking", 0.00, user.getAcctId());
+					log.info(acct.getBalance());
+					acctDao.registerAccount(acct);
+					if(acct.getAcctId()!=0) {
+						log.info("User added with the following details...");
+						log.info(acct);
+					}
+				}
+				break;
+			case 7: 
+				log.info("New Savings Stub");
+				break;
+			case 8: 
+				log.info("\nGoodbye...Thank you for using the Iron Bank");
 				break;
 			default:
-				log.info("Invalid response stub");
+				log.info("Invalid response, please enter only ");
 				break;
 			}
 			}  catch (Exception e) {
 				System.out.println(e);
 				log.info("Invalid input");
 			}
-		} while (ch!=6);
+		} while (ch!=8);
 	}
 	}

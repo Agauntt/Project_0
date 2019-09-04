@@ -1,5 +1,6 @@
 package com.iron_bank.dao.impl;
 
+import java.beans.Statement;
 import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.Date;
@@ -70,6 +71,33 @@ public class UserDaoImpl implements UserDAO{
 			System.out.println(e);
 		}
 		return user;
+	}
+
+
+	@Override
+	public UserDetails displayDetails(long userID) throws BusinessException {
+		UserDetails uDetails = new UserDetails();
+		try(Connection connection = OracleConnection.getConnection()) {
+			String sql = "SELECT * FROM user_info where user_id = ?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setLong(1, userID);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			if (resultSet.next()) {
+				uDetails.setAcctId(userID);
+				uDetails.setFirstName(resultSet.getString("first_name"));
+				uDetails.setLastName(resultSet.getString("last_name"));
+				uDetails.setAddress(resultSet.getString("address"));
+				uDetails.setCity(resultSet.getString("city"));
+				uDetails.setState(resultSet.getString("state"));
+				uDetails.setSsn(resultSet.getInt("ssn"));
+				uDetails.setDob(resultSet.getDate("dob"));
+				uDetails.setContact(resultSet.getString("contact"));
+				uDetails.setEmail(resultSet.getString("email"));
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			throw new BusinessException("Internal error occured...Please try again later");
+		}
+		return uDetails;
 	}
 
 	

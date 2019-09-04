@@ -15,7 +15,7 @@ import com.iron_bank.main.menus.Menus;
 import com.iron_bank.model.Account;
 import com.iron_bank.model.User;
 import com.iron_bank.model.UserDetails;
-import com.iron_bank.service.impl.test.IronBankServiceImpl;
+import com.iron_bank.service.impl.IronBankServiceImpl;
 
 public class IronBankMain implements Menus{
 	
@@ -160,8 +160,10 @@ public class IronBankMain implements Menus{
 		
 	}
 	
-	public static void mainMenu(User user) {
+	public static void mainMenu(User user) throws BusinessException {
 		AccountDaoImpl acctDao = new AccountDaoImpl();
+		IronBankServiceImpl service = new IronBankServiceImpl();
+		UserDaoImpl uDau = new UserDaoImpl();
 		Scanner sc = new Scanner(System.in);
 		int ch = 0;
 		log.info("\nWelcome back " + user.getUserName());
@@ -178,46 +180,129 @@ public class IronBankMain implements Menus{
 					aList = new AccountDaoImpl().displayAccounts(user.getAcctId());
 					int c = 1;
 					for (Account a: aList) {
-						log.info((c++) + ") " + a.getAcctId() + " " + a.getBalance() + " " + a.getAcct_type());
+						log.info((c++) + ") " + a.getAcctId() + " $" + a.getBalance() + " " + a.getAcct_type());
 					}
 					option = Integer.parseInt(sc.next());
 					if (option > aList.size()) {
 						log.info("Invalid selection");
+					} else {
+						try {
+//							log.info(aList.get(option - 1));
+							log.info("How much would you like to deposit?");
+							double dep = sc.nextDouble();
+							double newBal = aList.get(option - 1).getBalance() + dep;
+							acctDao.makeTransaction(aList.get(option - 1).getAcctId(), user.getAcctId(), newBal);
+							log.info("Success! New account balance is " + newBal);
+						} catch (Exception e) {
+							log.info(e);
+						}
+					}
+				
+				} catch (Exception e) {
+					log.info(e);
+				}
+				break;
+			case 2:
+				aList = null;
+				option = 0;
+				log.info("Please select the account you would like to withdrawal from");
+				try {
+					aList = new AccountDaoImpl().displayAccounts(user.getAcctId());
+					int c = 1;
+					for (Account a: aList) {
+						log.info((c++) + ") " + a.getAcctId() + " $" + a.getBalance() + " " + a.getAcct_type());
+					}
+					option = Integer.parseInt(sc.next());
+					if (option > aList.size()) {
+						log.info("Invalid selection");
+					} else {
+						try {
+							log.info("Please enter your PIN to continue...");
+							int PIN = sc.nextInt();
+							if (PIN == user.getPin()) {
+								log.info("PIN confirmed! How much would you like to withdrawal?");
+								double currBal = aList.get(option - 1).getBalance();
+								double dep = sc.nextDouble();
+								double newBal = currBal - dep;
+								if(newBal < 0) {
+									log.info("Woah there big spender... Your cannot withdrawal more than your current balance.");
+								} else {
+									acctDao.makeTransaction(aList.get(option - 1).getAcctId(), user.getAcctId(), newBal);
+									log.info("Success! New account balance is " + newBal);
+								}
+							}
+						} catch (Exception e) {
+							log.info(e);
+						}
 					}
 				} catch (Exception e) {
 					log.info(e);
 				}
-				
-				break;
-			case 2:
-				log.info("Withdrawal Stub");
 				break;
 			case 3:
-				log.info("View balance Stub");
+				aList = null;
+				option = 0;
+					log.info("Displaying active accounts with current balances");
+					aList = new AccountDaoImpl().displayAccounts(user.getAcctId());
+					int c = 1;
+					for (Account a: aList) {
+						log.info((c++) + ") " + a.getAcctId() + " $" + a.getBalance() + " " + a.getAcct_type());
+					}
+					log.info("Press any key to return to the menu");
+					String s = sc.next();
 				break;
 			case 4:
-				log.info("View Transaction history stub");
+				aList = null;
+				option = 0;
+					log.info("Select an account to view its transaction history");
+					aList = new AccountDaoImpl().displayAccounts(user.getAcctId());
+					c = 1;
+					for (Account a: aList) {
+						log.info((c++) + ") " + a.getAcctId() + " $" + a.getBalance() + " " + a.getAcct_type());
+					}
+					option = Integer.parseInt(sc.next());
+					
 				break;
 			case 5:
-				log.info("View account details stub");
+				log.info("Please confirm your PIN to view account details...");
+				int PIN = sc.nextInt();
+				if(PIN == user.getPin()) {
+					log.info("\nGenerating account details...");
+					UserDetails uDetails =  uDau.displayDetails(user.getAcctId());
+					log.info(uDetails.toStringDetails());
+					log.info("Press any key to return to the menu");
+					s = sc.next();
+				} else {
+					log.info("Incorrect PIN...Please try again");
+				}
 				break;
 			case 6:
 				log.info("Create New checking account? [Y / N]");
-				String c = sc.next().toUpperCase();
-				if (c.equals("Y")) {
+				String c1 = sc.next().toUpperCase();
+				if (c1.equals("Y")) {
 					double startingBal = 5.0;
 					java.util.Date currentDate = Calendar.getInstance().getTime();
 					Account acct = new Account(startingBal, currentDate, "Checking", 0.00, user.getAcctId());
 					log.info(acct.getBalance());
 					acctDao.registerAccount(acct);
 					if(acct.getAcctId()!=0) {
-						log.info("User added with the following details...");
-						log.info(acct);
+						log.info("New checking account added...");
 					}
 				}
 				break;
 			case 7: 
-				log.info("New Savings Stub");
+				log.info("Create New Saving account? [Y / N]");
+				c1 = sc.next().toUpperCase();
+				if (c1.equals("Y")) {
+					double startingBal = 5.0;
+					java.util.Date currentDate = Calendar.getInstance().getTime();
+					Account acct = new Account(startingBal, currentDate, "Savings", 5.00, user.getAcctId());
+					log.info(acct.getBalance());
+					acctDao.registerAccount(acct);
+					if(acct.getAcctId()!=0) {
+						log.info("New savings account added...");
+					}
+				}
 				break;
 			case 8: 
 				log.info("\nGoodbye...Thank you for using the Iron Bank");
@@ -226,7 +311,11 @@ public class IronBankMain implements Menus{
 				log.info("Invalid response, please enter only ");
 				break;
 			}
-			}  catch (Exception e) {
+			}
+			catch (NumberFormatException e) {
+				throw new BusinessException("Input should be numeric only...Please try again");
+			}
+			catch (Exception e) {
 				System.out.println(e);
 				log.info("Invalid input");
 			}

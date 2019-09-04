@@ -14,6 +14,7 @@ import com.dbutil.OracleConnection;
 import com.iron_bank.dao.AccountDAO;
 import com.iron_bank.exceptions.BusinessException;
 import com.iron_bank.model.Account;
+import com.iron_bank.model.Transaction;
 
 public class AccountDaoImpl  implements AccountDAO{
 
@@ -59,6 +60,82 @@ public class AccountDaoImpl  implements AccountDAO{
 			System.out.println("display accounts method");
 		}
 		return accountList;
+	}
+
+	@Override
+	public Account makeTransaction(long acctId, long ownerId, double trans) throws BusinessException {
+		Account account = new Account();
+		account.setAcctId(acctId);
+		account.setOwnerId(ownerId);
+		try (Connection connection = OracleConnection.getConnection()) {
+			String sql = "UPDATE acct_table SET balance = ? WHERE acct_id = ? AND owner_id = ?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setDouble(1, trans);
+			preparedStatement.setLong(2, acctId);
+			preparedStatement.setLong(3, ownerId);
+
+			int resultSet = preparedStatement.executeUpdate();
+			if (resultSet == 1) {
+				account.setBalance(trans);
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("Internal error occurred... Please try again later");
+		}
+		return account;
+	}
+	
+
+	@Override
+	public Account findAccountById(long id) throws BusinessException {
+		try(Connection connection = OracleConnection.getConnection()) {
+			String sql = "Bork";
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	@Override
+	public List<Transaction> showHistory(long acctId) throws BusinessException {
+		List<Transaction> transactions = new ArrayList<>();
+		try(Connection connection = OracleConnection.getConnection()){
+			String sql = "SELECT trans_id, trans_date, trans_amount, new_balance FROM transactions WHERE acct_id = ?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setLong(1, acctId);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while (resultSet.next()) {
+				Transaction transaction = new Transaction();
+				transaction.setTransId(resultSet.getLong("trans_id"));
+				transaction.setTransDate(resultSet.getDate("trans_date"));
+				transaction.setBalance(resultSet.getDouble("new_balance"));
+				transaction.setAmount(resultSet.getDouble("trans_amount"));
+				transactions.add(transaction);
+			}
+		} catch (SQLException | ClassNotFoundException e) {
+			System.out.println(e);
+		}
+		return transactions;
+	}
+
+	@Override
+	public Transaction addTransaction(Transaction t) throws BusinessException {
+		try (Connection connection = OracleConnection.getConnection()){
+			String sql = "{call gen_transaction ?,?,?,?,?}";
+			CallableStatement callableStatement = connection.prepareCall(sql);
+			callableStatement.setLong(1, t.getAcctId());
+			callableStatement.setDate(2, t.getTransDate());
+			callableStatement.setDouble(3, t.getAmount());
+			callableStatement.setDouble(4, t.getBalance());
+			callableStatement.registerOutParameter(5, java.sql.Types.NUMERIC);
+			
+			callableStatement.execute();
+			t.setTransId(callableStatement.getLong(5));
+		} catch(Exception e) {
+			
+		}
+		return t;
 	}
 
 }

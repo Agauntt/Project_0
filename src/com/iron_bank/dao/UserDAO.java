@@ -8,5 +8,6 @@ public interface UserDAO {
 
 	public UserDetails registerDetails(UserDetails uDetails) throws BusinessException;
 	public User authUser(User user) throws BusinessException;
+	public UserDetails displayDetails(long userID) throws BusinessException;
 
 }

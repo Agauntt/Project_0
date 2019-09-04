@@ -3799,3 +3799,1900 @@ Welcome back agauntt1@angelo.edu
 2019-09-02 17:46:27 INFO  IronBankMain:181 - 2) 3000000000000001 5.0 Checking
 2019-09-02 17:46:27 INFO  IronBankMain:181 - 3) 3000000000000002 5.0 Checking
 2019-09-02 17:46:27 INFO  IronBankMain:181 - 4) 3000000000000003 5.0 Checking
+2019-09-02 20:21:50 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 20:21:50 INFO  IronBankMain:14 - ===========================
+2019-09-02 20:21:50 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 20:21:50 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 20:21:50 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 20:21:58 INFO  IronBankMain:34 - Main Menu
+2019-09-02 20:21:58 INFO  IronBankMain:35 - =========================
+2019-09-02 20:21:58 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 20:21:58 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 20:22:04 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 20:22:08 INFO  IronBankMain:167 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 20:22:08 INFO  IronBankMain:21 - Main Menu
+2019-09-02 20:22:08 INFO  IronBankMain:22 - ==================
+2019-09-02 20:22:08 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 20:22:08 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 20:22:08 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 20:22:08 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 20:22:08 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 20:22:08 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 20:22:08 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 20:22:08 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 20:22:15 INFO  IronBankMain:176 - Please select the account you would like to deposit into
+2019-09-02 20:22:15 INFO  IronBankMain:181 - 1) 3000000000000000 100.0 Checking
+2019-09-02 20:22:15 INFO  IronBankMain:181 - 2) 3000000000000001 5.0 Checking
+2019-09-02 20:22:15 INFO  IronBankMain:181 - 3) 3000000000000002 5.0 Checking
+2019-09-02 20:22:15 INFO  IronBankMain:181 - 4) 3000000000000003 5.0 Checking
+2019-09-02 20:22:56 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 20:22:56 INFO  IronBankMain:14 - ===========================
+2019-09-02 20:22:56 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 20:22:56 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 20:22:56 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 20:22:57 INFO  IronBankMain:34 - Main Menu
+2019-09-02 20:22:57 INFO  IronBankMain:35 - =========================
+2019-09-02 20:22:57 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 20:22:57 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 20:23:03 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 20:23:07 INFO  IronBankMain:167 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 20:23:07 INFO  IronBankMain:21 - Main Menu
+2019-09-02 20:23:07 INFO  IronBankMain:22 - ==================
+2019-09-02 20:23:07 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 20:23:07 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 20:23:07 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 20:23:07 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 20:23:07 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 20:23:07 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 20:23:07 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 20:23:07 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 20:23:11 INFO  IronBankMain:220 - Create New Saving account? [Y / N]
+2019-09-02 20:23:13 INFO  IronBankMain:226 - 5.0
+2019-09-02 20:23:13 INFO  IronBankMain:229 - New savings account added...
+2019-09-02 20:23:13 INFO  IronBankMain:230 - Account [acctId=3000000000000004, balance=5.0, openDate=Mon Sep 02 20:23:13 CDT 2019, acct_type=Savings, interest=5.0, ownerId=100007]
+2019-09-02 20:23:13 INFO  IronBankMain:21 - Main Menu
+2019-09-02 20:23:13 INFO  IronBankMain:22 - ==================
+2019-09-02 20:23:13 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 20:23:13 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 20:23:13 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 20:23:13 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 20:23:13 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 20:23:13 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 20:23:13 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 20:23:13 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 20:23:23 INFO  IronBankMain:176 - Please select the account you would like to deposit into
+2019-09-02 20:23:23 INFO  IronBankMain:181 - 1) 3000000000000000 100.0 Checking
+2019-09-02 20:23:23 INFO  IronBankMain:181 - 2) 3000000000000001 5.0 Checking
+2019-09-02 20:23:23 INFO  IronBankMain:181 - 3) 3000000000000002 5.0 Checking
+2019-09-02 20:23:23 INFO  IronBankMain:181 - 4) 3000000000000003 5.0 Checking
+2019-09-02 20:23:23 INFO  IronBankMain:181 - 5) 3000000000000004 5.0 Savings
+2019-09-02 21:09:08 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:09:08 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:09:08 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:09:08 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:09:08 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:09:12 INFO  IronBankMain:34 - Main Menu
+2019-09-02 21:09:12 INFO  IronBankMain:35 - =========================
+2019-09-02 21:09:12 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 21:09:12 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 21:09:44 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 21:09:49 INFO  IronBankMain:167 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 21:09:49 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:09:49 INFO  IronBankMain:22 - ==================
+2019-09-02 21:09:49 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:09:49 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:09:49 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:09:49 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:09:49 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:09:49 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:09:49 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:09:49 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:09:55 INFO  IronBankMain:202 - Generating account details...
+2019-09-02 21:09:55 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:09:55 INFO  IronBankMain:22 - ==================
+2019-09-02 21:09:55 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:09:55 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:09:55 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:09:55 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:09:55 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:09:55 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:09:55 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:09:55 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:16:17 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:16:17 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:16:17 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:16:17 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:16:17 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:16:36 INFO  IronBankMain:34 - Main Menu
+2019-09-02 21:16:36 INFO  IronBankMain:35 - =========================
+2019-09-02 21:16:36 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 21:16:36 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 21:16:44 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 21:16:48 INFO  IronBankMain:168 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 21:16:48 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:16:48 INFO  IronBankMain:22 - ==================
+2019-09-02 21:16:48 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:16:48 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:16:48 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:16:48 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:16:48 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:16:48 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:16:48 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:16:48 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:16:57 INFO  IronBankMain:203 - Generating account details...
+2019-09-02 21:16:57 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:16:57 INFO  IronBankMain:22 - ==================
+2019-09-02 21:16:57 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:16:57 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:16:57 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:16:57 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:16:57 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:16:57 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:16:57 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:16:57 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:19:09 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:19:09 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:19:09 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:19:09 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:19:09 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:19:11 INFO  IronBankMain:34 - Main Menu
+2019-09-02 21:19:11 INFO  IronBankMain:35 - =========================
+2019-09-02 21:19:11 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 21:19:11 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 21:19:16 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 21:19:20 INFO  IronBankMain:168 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 21:19:20 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:19:20 INFO  IronBankMain:22 - ==================
+2019-09-02 21:19:20 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:19:20 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:19:20 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:19:20 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:19:20 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:19:20 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:19:20 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:19:20 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:19:22 INFO  IronBankMain:203 - Generating account details...
+2019-09-02 21:19:22 INFO  IronBankMain:205 - Fork i hope this works... Name = Aaron Gauntt
+Contact number = 512-869-9555
+Email Address = agauntt1@angelo.edu
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 0
+Date of birth = 1991-10-28
+SSN = 123231235
+2019-09-02 21:19:22 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:19:22 INFO  IronBankMain:22 - ==================
+2019-09-02 21:19:22 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:19:22 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:19:22 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:19:22 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:19:22 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:19:22 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:19:22 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:19:22 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:19:43 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:19:43 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:19:43 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:19:43 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:19:43 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:19:46 INFO  IronBankMain:34 - Main Menu
+2019-09-02 21:19:46 INFO  IronBankMain:35 - =========================
+2019-09-02 21:19:46 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 21:19:46 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 21:20:10 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 21:20:16 INFO  IronBankMain:168 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 21:20:16 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:20:16 INFO  IronBankMain:22 - ==================
+2019-09-02 21:20:16 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:20:16 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:20:16 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:20:16 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:20:16 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:20:16 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:20:16 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:20:16 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:20:20 INFO  IronBankMain:203 - Generating account details...
+2019-09-02 21:20:20 INFO  IronBankMain:205 - Name = Aaron Gauntt
+Contact number = 512-869-9555
+Email Address = agauntt1@angelo.edu
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 0
+Date of birth = 1991-10-28
+SSN = 123231235
+2019-09-02 21:20:20 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:20:20 INFO  IronBankMain:22 - ==================
+2019-09-02 21:20:20 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:20:20 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:20:20 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:20:20 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:20:20 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:20:20 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:20:20 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:20:20 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:20:31 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:20:31 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:20:31 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:20:31 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:20:31 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:20:33 INFO  IronBankMain:34 - Main Menu
+2019-09-02 21:20:33 INFO  IronBankMain:35 - =========================
+2019-09-02 21:20:33 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 21:20:33 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 21:21:54 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 21:22:20 INFO  IronBankMain:168 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 21:22:20 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:22:20 INFO  IronBankMain:22 - ==================
+2019-09-02 21:22:20 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:22:20 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:22:20 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:22:20 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:22:20 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:22:20 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:22:20 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:22:20 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:22:30 INFO  IronBankMain:203 - 
+Generating account details...
+2019-09-02 21:22:30 INFO  IronBankMain:205 - Name = Aaron Gauntt
+Contact number = 512-869-9555
+Email Address = agauntt1@angelo.edu
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 0
+Date of birth = 1991-10-28
+SSN = 123231235
+2019-09-02 21:22:30 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:22:30 INFO  IronBankMain:22 - ==================
+2019-09-02 21:22:30 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:22:30 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:22:30 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:22:30 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:22:30 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:22:30 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:22:30 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:22:30 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:37:12 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:37:12 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:37:12 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:37:12 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:37:12 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:57:31 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-02 21:57:31 INFO  IronBankMain:14 - ===========================
+2019-09-02 21:57:31 INFO  IronBankMain:15 - 1) Log in
+2019-09-02 21:57:31 INFO  IronBankMain:16 - 2) Create account
+2019-09-02 21:57:31 INFO  IronBankMain:17 - 3) Exit
+2019-09-02 21:57:34 INFO  IronBankMain:34 - Main Menu
+2019-09-02 21:57:34 INFO  IronBankMain:35 - =========================
+2019-09-02 21:57:34 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-02 21:57:34 INFO  IronBankMain:36 - Enter your username...
+2019-09-02 21:57:40 INFO  IronBankMain:38 - Enter your password...
+2019-09-02 21:57:59 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-02 21:57:59 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:57:59 INFO  IronBankMain:22 - ==================
+2019-09-02 21:57:59 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:57:59 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:57:59 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:57:59 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:57:59 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:57:59 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:57:59 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:57:59 INFO  IronBankMain:30 - 8) Log out
+2019-09-02 21:58:06 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-02 21:58:06 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-02 21:58:06 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-02 21:58:08 INFO  IronBankMain:187 - Invalid selection
+2019-09-02 21:58:08 INFO  IronBankMain:21 - Main Menu
+2019-09-02 21:58:08 INFO  IronBankMain:22 - ==================
+2019-09-02 21:58:08 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-02 21:58:08 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-02 21:58:08 INFO  IronBankMain:25 - 3) View account balance
+2019-09-02 21:58:08 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-02 21:58:08 INFO  IronBankMain:27 - 5) View account details
+2019-09-02 21:58:08 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-02 21:58:08 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-02 21:58:08 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 12:29:53 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 12:29:53 INFO  IronBankMain:14 - ===========================
+2019-09-03 12:29:53 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 12:29:53 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 12:29:53 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 12:29:57 INFO  IronBankMain:34 - Main Menu
+2019-09-03 12:29:57 INFO  IronBankMain:35 - =========================
+2019-09-03 12:29:57 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 12:29:57 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 12:30:24 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 12:30:29 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 12:30:29 INFO  IronBankMain:21 - Main Menu
+2019-09-03 12:30:29 INFO  IronBankMain:22 - ==================
+2019-09-03 12:30:29 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 12:30:29 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 12:30:29 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 12:30:29 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 12:30:29 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 12:30:29 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 12:30:29 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 12:30:29 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 12:30:33 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 12:30:33 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 12:30:33 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 12:30:41 INFO  IronBankMain:189 - [Account [acctId=3000000000000003, balance=5.0, openDate=2019-09-02, acct_type=Checking, interest=0.0, ownerId=0], Account [acctId=3000000000000004, balance=5.0, openDate=2019-09-02, acct_type=Savings, interest=5.0, ownerId=0]]
+2019-09-03 12:30:41 INFO  IronBankMain:21 - Main Menu
+2019-09-03 12:30:41 INFO  IronBankMain:22 - ==================
+2019-09-03 12:30:41 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 12:30:41 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 12:30:41 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 12:30:41 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 12:30:41 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 12:30:41 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 12:30:41 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 12:30:41 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 12:31:01 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 12:31:01 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 12:31:01 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 12:31:03 INFO  IronBankMain:189 - [Account [acctId=3000000000000003, balance=5.0, openDate=2019-09-02, acct_type=Checking, interest=0.0, ownerId=0], Account [acctId=3000000000000004, balance=5.0, openDate=2019-09-02, acct_type=Savings, interest=5.0, ownerId=0]]
+2019-09-03 12:31:03 INFO  IronBankMain:21 - Main Menu
+2019-09-03 12:31:03 INFO  IronBankMain:22 - ==================
+2019-09-03 12:31:03 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 12:31:03 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 12:31:03 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 12:31:03 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 12:31:03 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 12:31:03 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 12:31:03 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 12:31:03 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 12:35:06 INFO  IronBankMain:242 - 
+Goodbye...Thank you for using the Iron Bank
+2019-09-03 12:35:06 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 12:35:06 INFO  IronBankMain:14 - ===========================
+2019-09-03 12:35:06 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 12:35:06 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 12:35:06 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 12:35:08 INFO  IronBankMain:48 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-03 12:35:08 INFO  IronBankMain:50 - Enter your first name
+2019-09-03 12:35:14 INFO  IronBankMain:53 - Enter last name
+2019-09-03 12:35:15 INFO  IronBankMain:56 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-03 12:35:33 INFO  IronBankMain:64 - Enter your email address, this will serve as your username when logging in
+2019-09-03 12:35:40 INFO  IronBankMain:70 - Enter your home address
+2019-09-03 12:35:45 INFO  IronBankMain:74 - Enter your City
+2019-09-03 12:35:47 INFO  IronBankMain:77 - Enter your State
+2019-09-03 12:35:50 INFO  IronBankMain:80 - Enter your ZIP code
+2019-09-03 12:35:53 INFO  IronBankMain:83 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-03 12:35:59 INFO  IronBankMain:87 - Enter your social security number
+2019-09-03 12:36:07 INFO  IronBankMain:90 - 
+Thank you. Please confirm the information provided is correct...
+2019-09-03 12:36:07 INFO  IronBankMain:94 - 
+Name = Aaron Gauntt
+Contact number = 512-869-9553
+Email Address = gauntta@gmail.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = TX
+ZIP = 78626
+Date of birth = Mon Oct 28 00:00:00 CST 1991
+SSN = 675576765
+2019-09-03 12:36:07 INFO  IronBankMain:97 - Is everything correct? [Y / N]
+2019-09-03 12:36:20 INFO  IronBankMain:103 - Info captured
+2019-09-03 12:36:20 INFO  IronBankMain:120 - 
+Enter a password for your account...Please do your best to remember it
+2019-09-03 13:04:00 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:04:00 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:04:00 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:04:00 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:04:00 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:04:02 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:04:02 INFO  IronBankMain:35 - =========================
+2019-09-03 13:04:02 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:04:02 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:04:08 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:04:11 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:04:11 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:04:11 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:04:11 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:04:11 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:04:15 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:04:15 INFO  IronBankMain:35 - =========================
+2019-09-03 13:04:15 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:04:15 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:04:21 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:04:23 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:04:23 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:04:23 INFO  IronBankMain:22 - ==================
+2019-09-03 13:04:23 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:04:23 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:04:23 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:04:23 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:04:23 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:04:23 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:04:23 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:04:23 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:04:27 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:04:27 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:04:27 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:04:30 INFO  IronBankMain:189 - [Account [acctId=3000000000000003, balance=5.0, openDate=2019-09-02, acct_type=Checking, interest=0.0, ownerId=0], Account [acctId=3000000000000004, balance=5.0, openDate=2019-09-02, acct_type=Savings, interest=5.0, ownerId=0]]
+2019-09-03 13:04:30 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:04:30 INFO  IronBankMain:22 - ==================
+2019-09-03 13:04:30 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:04:30 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:04:30 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:04:30 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:04:30 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:04:30 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:04:30 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:04:30 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:04:42 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:04:42 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:04:42 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:04:44 INFO  IronBankMain:187 - Invalid selection
+2019-09-03 13:04:44 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:04:44 INFO  IronBankMain:22 - ==================
+2019-09-03 13:04:44 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:04:44 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:04:44 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:04:44 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:04:44 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:04:44 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:04:44 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:04:44 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:09:08 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:09:08 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:09:08 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:09:08 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:09:08 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:09:11 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:09:11 INFO  IronBankMain:35 - =========================
+2019-09-03 13:09:11 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:09:11 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:09:15 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:09:19 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:09:19 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:09:19 INFO  IronBankMain:22 - ==================
+2019-09-03 13:09:19 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:09:19 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:09:19 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:09:19 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:09:19 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:09:19 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:09:19 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:09:19 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:09:21 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:09:21 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:09:21 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:09:22 INFO  IronBankMain:193 - java.lang.IndexOutOfBoundsException: Index: 2, Size: 2
+2019-09-03 13:09:22 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:09:22 INFO  IronBankMain:22 - ==================
+2019-09-03 13:09:22 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:09:22 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:09:22 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:09:22 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:09:22 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:09:22 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:09:22 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:09:22 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:09:28 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:09:28 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:09:28 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:09:31 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:09:31 INFO  IronBankMain:22 - ==================
+2019-09-03 13:09:31 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:09:31 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:09:31 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:09:31 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:09:31 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:09:31 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:09:31 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:09:31 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:09:36 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:09:36 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:09:36 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:09:39 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:09:39 INFO  IronBankMain:22 - ==================
+2019-09-03 13:09:39 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:09:39 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:09:39 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:09:39 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:09:39 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:09:39 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:09:39 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:09:39 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:10:12 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:10:12 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:10:12 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:10:12 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:10:12 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:10:14 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:10:14 INFO  IronBankMain:35 - =========================
+2019-09-03 13:10:14 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:10:14 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:10:19 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:10:22 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:10:22 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:10:22 INFO  IronBankMain:22 - ==================
+2019-09-03 13:10:22 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:10:22 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:10:22 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:10:22 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:10:22 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:10:22 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:10:22 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:10:22 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:10:24 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:10:25 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:10:25 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:10:28 INFO  IronBankMain:189 - Account [acctId=3000000000000003, balance=5.0, openDate=2019-09-02, acct_type=Checking, interest=0.0, ownerId=0]
+2019-09-03 13:10:28 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:10:28 INFO  IronBankMain:22 - ==================
+2019-09-03 13:10:28 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:10:28 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:10:28 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:10:28 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:10:28 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:10:28 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:10:28 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:10:28 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:10:31 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:10:31 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:10:31 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:10:33 INFO  IronBankMain:193 - java.lang.IndexOutOfBoundsException: Index: 2, Size: 2
+2019-09-03 13:10:33 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:10:33 INFO  IronBankMain:22 - ==================
+2019-09-03 13:10:33 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:10:33 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:10:33 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:10:33 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:10:33 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:10:33 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:10:33 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:10:33 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:10:36 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:10:36 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:10:36 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:10:38 INFO  IronBankMain:189 - Account [acctId=3000000000000004, balance=5.0, openDate=2019-09-02, acct_type=Savings, interest=5.0, ownerId=0]
+2019-09-03 13:10:38 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:10:38 INFO  IronBankMain:22 - ==================
+2019-09-03 13:10:38 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:10:38 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:10:38 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:10:38 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:10:38 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:10:38 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:10:38 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:10:38 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:12:49 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:12:49 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:12:49 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:12:49 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:12:49 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:12:58 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:12:58 INFO  IronBankMain:35 - =========================
+2019-09-03 13:12:58 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:12:58 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:13:04 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:13:07 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:13:07 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:13:07 INFO  IronBankMain:22 - ==================
+2019-09-03 13:13:07 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:13:07 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:13:07 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:13:07 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:13:07 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:13:07 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:13:07 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:13:07 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:13:12 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:13:12 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:13:12 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:13:23 INFO  IronBankMain:189 - Account [acctId=3000000000000004, balance=5.0, openDate=2019-09-02, acct_type=Savings, interest=5.0, ownerId=0]
+2019-09-03 13:13:23 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:13:23 INFO  IronBankMain:22 - ==================
+2019-09-03 13:13:23 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:13:23 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:13:23 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:13:23 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:13:23 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:13:23 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:13:23 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:13:23 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:15:46 INFO  IronBankMain:242 - 
+Goodbye...Thank you for using the Iron Bank
+2019-09-03 13:15:46 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:15:46 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:15:46 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:15:46 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:15:46 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:16:42 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:16:42 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:16:42 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:16:42 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:16:42 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:16:46 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:16:46 INFO  IronBankMain:35 - =========================
+2019-09-03 13:16:46 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:16:46 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:16:51 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:16:55 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:16:55 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:16:55 INFO  IronBankMain:22 - ==================
+2019-09-03 13:16:55 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:16:55 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:16:55 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:16:55 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:16:55 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:16:55 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:16:55 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:16:55 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:16:59 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:16:59 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:16:59 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:17:04 INFO  IronBankMain:189 - Account [acctId=3000000000000003, balance=5.0, openDate=2019-09-02, acct_type=Checking, interest=0.0, ownerId=0]
+2019-09-03 13:17:04 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:17:04 INFO  IronBankMain:22 - ==================
+2019-09-03 13:17:04 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:17:04 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:17:04 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:17:04 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:17:04 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:17:04 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:17:04 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:17:04 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:18:40 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:18:40 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:18:40 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:18:40 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:18:40 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:18:43 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:18:43 INFO  IronBankMain:35 - =========================
+2019-09-03 13:18:43 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:18:43 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:18:51 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:18:55 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:18:55 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:18:55 INFO  IronBankMain:22 - ==================
+2019-09-03 13:18:55 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:18:55 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:18:55 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:18:55 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:18:55 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:18:55 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:18:55 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:18:55 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:18:58 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:18:58 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:18:58 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:18:59 INFO  IronBankMain:190 - 1
+2019-09-03 13:18:59 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:18:59 INFO  IronBankMain:22 - ==================
+2019-09-03 13:18:59 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:18:59 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:18:59 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:18:59 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:18:59 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:18:59 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:18:59 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:18:59 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:45:54 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:45:54 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:45:54 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:45:54 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:45:54 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:45:59 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:45:59 INFO  IronBankMain:35 - =========================
+2019-09-03 13:45:59 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:45:59 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:46:06 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:46:09 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:46:09 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:46:09 INFO  IronBankMain:22 - ==================
+2019-09-03 13:46:09 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:46:09 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:46:09 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:46:09 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:46:09 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:46:09 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:46:09 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:46:09 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:46:11 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:46:11 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:46:11 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:46:14 INFO  IronBankMain:190 - How much would you like to deposit?
+2019-09-03 13:46:18 INFO  IronBankMain:192 - New balance is 105.0
+2019-09-03 13:46:18 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:46:18 INFO  IronBankMain:22 - ==================
+2019-09-03 13:46:18 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:46:18 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:46:18 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:46:18 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:46:18 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:46:18 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:46:18 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:46:18 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:48:05 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:48:05 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:48:05 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:48:05 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:48:05 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:48:07 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:48:07 INFO  IronBankMain:35 - =========================
+2019-09-03 13:48:07 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:48:07 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:48:14 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:48:17 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:48:17 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:48:17 INFO  IronBankMain:22 - ==================
+2019-09-03 13:48:17 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:48:17 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:48:17 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:48:17 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:48:17 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:48:17 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:48:17 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:48:17 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:48:18 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:48:18 INFO  IronBankMain:183 - 1) 3000000000000003 5.0 Checking
+2019-09-03 13:48:18 INFO  IronBankMain:183 - 2) 3000000000000004 5.0 Savings
+2019-09-03 13:48:20 INFO  IronBankMain:190 - How much would you like to deposit?
+2019-09-03 13:48:23 INFO  IronBankMain:193 - 105.0
+2019-09-03 13:48:23 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:48:23 INFO  IronBankMain:22 - ==================
+2019-09-03 13:48:23 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:48:23 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:48:23 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:48:23 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:48:23 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:48:23 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:48:23 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:48:23 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:49:01 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:49:01 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:49:01 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:49:01 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:49:01 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:49:02 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:49:02 INFO  IronBankMain:35 - =========================
+2019-09-03 13:49:02 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:49:02 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:49:09 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:49:13 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:49:13 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:49:13 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:49:13 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:49:13 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:49:19 INFO  IronBankMain:157 - 
+Input should be numeric only..Please try again
+
+2019-09-03 13:49:19 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 13:49:19 INFO  IronBankMain:14 - ===========================
+2019-09-03 13:49:19 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 13:49:19 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 13:49:19 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 13:49:28 INFO  IronBankMain:34 - Main Menu
+2019-09-03 13:49:28 INFO  IronBankMain:35 - =========================
+2019-09-03 13:49:28 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 13:49:28 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 13:49:37 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 13:49:40 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 13:49:40 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:49:40 INFO  IronBankMain:22 - ==================
+2019-09-03 13:49:40 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:49:40 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:49:40 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:49:40 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:49:40 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:49:40 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:49:40 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:49:40 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 13:49:41 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 13:49:41 INFO  IronBankMain:183 - 1) 3000000000000003 $5.0 Checking
+2019-09-03 13:49:41 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 13:50:23 INFO  IronBankMain:190 - How much would you like to deposit?
+2019-09-03 13:50:30 INFO  IronBankMain:193 - 105.0
+2019-09-03 13:50:30 INFO  IronBankMain:21 - Main Menu
+2019-09-03 13:50:30 INFO  IronBankMain:22 - ==================
+2019-09-03 13:50:30 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 13:50:30 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 13:50:30 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 13:50:30 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 13:50:30 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 13:50:30 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 13:50:30 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 13:50:30 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:07:01 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:07:01 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:07:01 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:07:01 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:07:01 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:07:05 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:07:05 INFO  IronBankMain:35 - =========================
+2019-09-03 14:07:05 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:07:05 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:07:10 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:07:15 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:07:15 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:07:15 INFO  IronBankMain:22 - ==================
+2019-09-03 14:07:15 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:07:15 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:07:15 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:07:15 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:07:15 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:07:15 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:07:15 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:07:15 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:07:16 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:07:16 INFO  IronBankMain:183 - 1) 3000000000000003 $5.0 Checking
+2019-09-03 14:07:16 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:07:19 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:07:39 INFO  IronBankMain:197 - com.iron_bank.exceptions.BusinessException: Hello
+2019-09-03 14:07:39 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:07:39 INFO  IronBankMain:22 - ==================
+2019-09-03 14:07:39 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:07:39 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:07:39 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:07:39 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:07:39 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:07:39 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:07:39 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:07:39 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:08:59 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:08:59 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:08:59 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:08:59 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:08:59 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:09:00 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:09:00 INFO  IronBankMain:35 - =========================
+2019-09-03 14:09:00 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:09:00 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:09:08 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:09:12 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:09:12 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:09:12 INFO  IronBankMain:22 - ==================
+2019-09-03 14:09:12 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:09:12 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:09:12 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:09:12 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:09:12 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:09:12 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:09:12 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:09:12 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:09:12 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:09:12 INFO  IronBankMain:183 - 1) 3000000000000003 $100.0 Checking
+2019-09-03 14:09:12 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:09:13 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:09:17 INFO  IronBankMain:197 - com.iron_bank.exceptions.BusinessException: Hello
+2019-09-03 14:09:17 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:09:17 INFO  IronBankMain:22 - ==================
+2019-09-03 14:09:17 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:09:17 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:09:17 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:09:17 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:09:17 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:09:17 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:09:17 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:09:17 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:15:08 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:15:08 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:15:08 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:15:08 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:15:08 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:15:10 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:15:10 INFO  IronBankMain:35 - =========================
+2019-09-03 14:15:10 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:15:10 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:15:16 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:15:19 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:15:19 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:15:19 INFO  IronBankMain:22 - ==================
+2019-09-03 14:15:19 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:15:19 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:15:19 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:15:19 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:15:19 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:15:19 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:15:19 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:15:19 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:15:20 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:15:20 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:15:20 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:16:04 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:16:04 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:16:04 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:16:04 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:16:04 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:16:07 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:16:07 INFO  IronBankMain:35 - =========================
+2019-09-03 14:16:07 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:16:07 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:16:14 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:16:17 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:16:17 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:16:17 INFO  IronBankMain:22 - ==================
+2019-09-03 14:16:17 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:16:17 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:16:17 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:16:17 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:16:17 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:16:17 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:16:17 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:16:17 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:16:19 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:16:19 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:16:19 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:16:49 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:19:32 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:19:32 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:19:32 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:19:32 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:19:32 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:19:36 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:19:36 INFO  IronBankMain:35 - =========================
+2019-09-03 14:19:36 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:19:36 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:19:46 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:19:49 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:19:49 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:19:49 INFO  IronBankMain:22 - ==================
+2019-09-03 14:19:49 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:19:49 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:19:49 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:19:49 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:19:49 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:19:49 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:19:49 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:19:49 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:19:51 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:19:51 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:19:51 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:19:55 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:21:49 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:21:49 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:21:49 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:21:49 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:21:49 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:21:53 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:21:53 INFO  IronBankMain:35 - =========================
+2019-09-03 14:21:53 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:21:53 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:21:59 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:22:04 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:22:04 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:22:04 INFO  IronBankMain:22 - ==================
+2019-09-03 14:22:04 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:22:04 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:22:04 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:22:04 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:22:04 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:22:04 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:22:04 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:22:04 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:22:15 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:22:15 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:22:15 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:22:26 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:23:26 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:23:26 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:23:26 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:23:26 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:23:26 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:23:27 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:23:27 INFO  IronBankMain:35 - =========================
+2019-09-03 14:23:27 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:23:27 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:23:34 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:23:39 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:23:39 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:23:39 INFO  IronBankMain:22 - ==================
+2019-09-03 14:23:39 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:23:39 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:23:39 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:23:39 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:23:39 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:23:39 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:23:39 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:23:39 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:23:41 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:23:41 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:23:41 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:23:44 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:24:05 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:24:05 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:24:05 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:24:05 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:24:05 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:24:07 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:24:07 INFO  IronBankMain:35 - =========================
+2019-09-03 14:24:07 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:24:07 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:24:16 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:24:20 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:24:20 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:24:20 INFO  IronBankMain:22 - ==================
+2019-09-03 14:24:20 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:24:20 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:24:20 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:24:20 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:24:20 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:24:20 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:24:20 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:24:20 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:24:21 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:24:21 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:24:21 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:24:27 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:25:53 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:25:53 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:25:53 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:25:53 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:25:53 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:25:55 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:25:55 INFO  IronBankMain:35 - =========================
+2019-09-03 14:25:55 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:25:55 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:26:01 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:26:04 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:26:04 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:26:04 INFO  IronBankMain:22 - ==================
+2019-09-03 14:26:04 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:26:04 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:26:04 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:26:04 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:26:04 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:26:04 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:26:04 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:26:04 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:26:05 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:26:05 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:26:05 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:26:08 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:28:49 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:28:49 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:28:49 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:28:49 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:28:49 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:28:50 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:28:50 INFO  IronBankMain:35 - =========================
+2019-09-03 14:28:50 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:28:50 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:29:05 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:29:08 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:29:08 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:29:08 INFO  IronBankMain:22 - ==================
+2019-09-03 14:29:08 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:29:08 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:29:08 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:29:08 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:29:08 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:29:08 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:29:08 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:29:08 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:29:09 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:29:09 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:29:09 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:29:12 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:31:20 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:31:20 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:31:20 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:31:20 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:31:20 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:31:22 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:31:22 INFO  IronBankMain:35 - =========================
+2019-09-03 14:31:22 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:31:22 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:31:29 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:31:32 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:31:32 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:31:32 INFO  IronBankMain:22 - ==================
+2019-09-03 14:31:32 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:31:32 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:31:32 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:31:32 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:31:32 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:31:32 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:31:32 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:31:32 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:31:33 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:31:33 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:31:33 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:31:35 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:33:22 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:33:22 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:33:22 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:33:22 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:33:22 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:33:23 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:33:23 INFO  IronBankMain:35 - =========================
+2019-09-03 14:33:23 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:33:23 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:33:28 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:33:31 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:33:31 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:33:31 INFO  IronBankMain:22 - ==================
+2019-09-03 14:33:31 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:33:31 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:33:31 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:33:31 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:33:31 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:33:31 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:33:31 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:33:31 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:33:32 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:33:32 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:33:32 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:33:33 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:39:14 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:39:14 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:39:14 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:39:14 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:39:14 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:39:16 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:39:16 INFO  IronBankMain:35 - =========================
+2019-09-03 14:39:16 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:39:16 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:39:21 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:39:24 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:39:24 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:39:24 INFO  IronBankMain:22 - ==================
+2019-09-03 14:39:24 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:39:24 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:39:24 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:39:24 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:39:24 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:39:24 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:39:24 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:39:24 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:39:25 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:39:25 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:39:25 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:39:26 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:41:13 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:41:13 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:41:13 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:41:13 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:41:13 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:41:14 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:41:14 INFO  IronBankMain:35 - =========================
+2019-09-03 14:41:14 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:41:14 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:41:22 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:41:25 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:41:25 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:41:25 INFO  IronBankMain:22 - ==================
+2019-09-03 14:41:25 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:41:25 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:41:25 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:41:25 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:41:25 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:41:25 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:41:25 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:41:25 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:41:28 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:41:28 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:41:28 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:41:31 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:46:08 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:46:08 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:46:08 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:46:08 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:46:08 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:46:13 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:46:13 INFO  IronBankMain:35 - =========================
+2019-09-03 14:46:13 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:46:13 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:46:20 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:46:25 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:46:25 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:46:25 INFO  IronBankMain:22 - ==================
+2019-09-03 14:46:25 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:46:25 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:46:25 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:46:25 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:46:25 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:46:25 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:46:25 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:46:25 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:46:32 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:46:32 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:46:32 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:46:36 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 14:55:07 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 14:55:07 INFO  IronBankMain:14 - ===========================
+2019-09-03 14:55:07 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 14:55:07 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 14:55:07 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 14:56:27 INFO  IronBankMain:34 - Main Menu
+2019-09-03 14:56:27 INFO  IronBankMain:35 - =========================
+2019-09-03 14:56:27 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 14:56:27 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 14:56:36 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 14:56:40 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 14:56:40 INFO  IronBankMain:21 - Main Menu
+2019-09-03 14:56:40 INFO  IronBankMain:22 - ==================
+2019-09-03 14:56:40 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 14:56:40 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 14:56:40 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 14:56:40 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 14:56:40 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 14:56:40 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 14:56:40 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 14:56:40 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 14:56:41 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 14:56:41 INFO  IronBankMain:183 - 1) 3000000000000003 $195.0 Checking
+2019-09-03 14:56:41 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 14:56:42 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 15:03:47 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:03:47 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:03:47 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:03:47 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:03:47 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:03:49 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:03:49 INFO  IronBankMain:35 - =========================
+2019-09-03 15:03:49 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:03:49 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:03:54 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:04:01 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:04:01 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:04:01 INFO  IronBankMain:22 - ==================
+2019-09-03 15:04:01 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:04:01 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:04:01 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:04:01 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:04:01 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:04:01 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:04:01 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:04:01 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:04:03 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 15:04:03 INFO  IronBankMain:183 - 1) 3000000000000003 $200.0 Checking
+2019-09-03 15:04:03 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 15:04:04 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 15:04:06 INFO  IronBankMain:195 - Success! New account balance is 205.0
+2019-09-03 15:04:06 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:04:06 INFO  IronBankMain:22 - ==================
+2019-09-03 15:04:06 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:04:06 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:04:06 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:04:06 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:04:06 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:04:06 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:04:06 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:04:06 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:04:44 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 15:04:44 INFO  IronBankMain:183 - 1) 3000000000000003 $205.0 Checking
+2019-09-03 15:04:44 INFO  IronBankMain:183 - 2) 3000000000000004 $5.0 Savings
+2019-09-03 15:04:46 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 15:04:49 INFO  IronBankMain:195 - Success! New account balance is 105.0
+2019-09-03 15:04:49 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:04:49 INFO  IronBankMain:22 - ==================
+2019-09-03 15:04:49 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:04:49 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:04:49 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:04:49 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:04:49 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:04:49 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:04:49 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:04:49 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:04:58 INFO  IronBankMain:216 - 
+Generating account details...
+2019-09-03 15:04:58 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:04:58 INFO  IronBankMain:22 - ==================
+2019-09-03 15:04:58 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:04:58 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:04:58 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:04:58 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:04:58 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:04:58 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:04:58 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:04:58 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:11:49 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:11:49 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:11:49 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:11:49 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:11:49 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:11:51 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:11:51 INFO  IronBankMain:35 - =========================
+2019-09-03 15:11:51 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:11:51 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:11:57 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:12:01 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:12:01 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:12:01 INFO  IronBankMain:22 - ==================
+2019-09-03 15:12:01 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:12:01 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:12:01 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:12:01 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:12:01 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:12:01 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:12:01 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:12:01 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:12:08 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 15:12:08 INFO  IronBankMain:183 - 1) 3000000000000003 $205.0 Checking
+2019-09-03 15:12:08 INFO  IronBankMain:183 - 2) 3000000000000004 $105.0 Savings
+2019-09-03 15:12:15 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 15:12:19 INFO  IronBankMain:195 - Success! New account balance is 300.0
+2019-09-03 15:12:19 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:12:19 INFO  IronBankMain:22 - ==================
+2019-09-03 15:12:19 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:12:19 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:12:19 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:12:19 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:12:19 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:12:19 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:12:19 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:12:19 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:12:32 INFO  IronBankMain:209 - Please select the account you would like to deposit into
+2019-09-03 15:12:32 INFO  IronBankMain:214 - 1) 3000000000000003 $205.0 Checking
+2019-09-03 15:12:32 INFO  IronBankMain:214 - 2) 3000000000000004 $300.0 Savings
+2019-09-03 15:12:39 INFO  IronBankMain:222 - How much would you like to deposit?
+2019-09-03 15:12:42 INFO  IronBankMain:230 - Success! New account balance is 100.0
+2019-09-03 15:12:42 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:12:42 INFO  IronBankMain:22 - ==================
+2019-09-03 15:12:42 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:12:42 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:12:42 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:12:42 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:12:42 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:12:42 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:12:42 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:12:42 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:18:14 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:18:14 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:18:14 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:18:14 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:18:14 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:18:20 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:18:20 INFO  IronBankMain:35 - =========================
+2019-09-03 15:18:20 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:18:20 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:18:26 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:18:30 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:18:30 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:18:30 INFO  IronBankMain:22 - ==================
+2019-09-03 15:18:30 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:18:30 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:18:30 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:18:30 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:18:30 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:18:30 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:18:30 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:18:30 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:18:33 INFO  IronBankMain:209 - Please select the account you would like to withdrawal from
+2019-09-03 15:18:33 INFO  IronBankMain:214 - 1) 3000000000000003 $205.0 Checking
+2019-09-03 15:18:33 INFO  IronBankMain:214 - 2) 3000000000000004 $100.0 Savings
+2019-09-03 15:18:41 INFO  IronBankMain:221 - Please enter your PIN to access the withrawal feature...
+2019-09-03 15:18:59 INFO  IronBankMain:224 - PIN confirmed! How much would you like to withdrawal?
+2019-09-03 15:19:08 INFO  IronBankMain:229 - Woah there big spender... Your cannot withdrawal more than your current balance.
+2019-09-03 15:19:08 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:19:08 INFO  IronBankMain:22 - ==================
+2019-09-03 15:19:08 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:19:08 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:19:08 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:19:08 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:19:08 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:19:08 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:19:08 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:19:08 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:19:18 INFO  IronBankMain:209 - Please select the account you would like to withdrawal from
+2019-09-03 15:19:18 INFO  IronBankMain:214 - 1) 3000000000000003 $205.0 Checking
+2019-09-03 15:19:18 INFO  IronBankMain:214 - 2) 3000000000000004 $100.0 Savings
+2019-09-03 15:19:21 INFO  IronBankMain:221 - Please enter your PIN to access the withrawal feature...
+2019-09-03 15:19:24 INFO  IronBankMain:224 - PIN confirmed! How much would you like to withdrawal?
+2019-09-03 15:19:26 INFO  IronBankMain:232 - Success! New account balance is 200.0
+2019-09-03 15:19:26 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:19:26 INFO  IronBankMain:22 - ==================
+2019-09-03 15:19:26 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:19:26 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:19:26 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:19:26 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:19:26 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:19:26 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:19:26 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:19:26 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:34:08 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:34:08 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:34:08 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:34:08 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:34:08 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:34:10 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:34:10 INFO  IronBankMain:35 - =========================
+2019-09-03 15:34:10 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:34:10 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:34:14 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:34:18 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:34:18 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:34:18 INFO  IronBankMain:22 - ==================
+2019-09-03 15:34:18 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:34:18 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:34:18 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:34:18 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:34:18 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:34:18 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:34:18 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:34:18 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:34:23 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 15:34:23 INFO  IronBankMain:183 - 1) 3000000000000003 $200.0 Checking
+2019-09-03 15:34:23 INFO  IronBankMain:183 - 2) 3000000000000004 $100.0 Savings
+2019-09-03 15:34:40 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 15:34:58 INFO  IronBankMain:195 - Success! New account balance is 200.0
+2019-09-03 15:34:58 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:34:58 INFO  IronBankMain:22 - ==================
+2019-09-03 15:34:58 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:34:58 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:34:58 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:34:58 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:34:58 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:34:58 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:34:58 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:34:58 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:35:30 INFO  IronBankMain:245 - Displaying active accounts with current balances
+2019-09-03 15:35:30 INFO  IronBankMain:249 - 1) 3000000000000003 $200.0 Checking
+2019-09-03 15:35:30 INFO  IronBankMain:249 - 2) 3000000000000004 $200.0 Savings
+2019-09-03 15:35:42 INFO  IronBankMain:304 - Invalid input
+2019-09-03 15:35:42 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:35:42 INFO  IronBankMain:22 - ==================
+2019-09-03 15:35:42 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:35:42 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:35:42 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:35:42 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:35:42 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:35:42 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:35:42 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:35:42 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:36:17 INFO  IronBankMain:208 - Please select the account you would like to withdrawal from
+2019-09-03 15:36:17 INFO  IronBankMain:213 - 1) 3000000000000003 $200.0 Checking
+2019-09-03 15:36:17 INFO  IronBankMain:213 - 2) 3000000000000004 $200.0 Savings
+2019-09-03 15:36:33 INFO  IronBankMain:220 - Please enter your PIN to continue...
+2019-09-03 15:36:39 INFO  IronBankMain:223 - PIN confirmed! How much would you like to withdrawal?
+2019-09-03 15:36:43 INFO  IronBankMain:228 - Woah there big spender... Your cannot withdrawal more than your current balance.
+2019-09-03 15:36:43 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:36:43 INFO  IronBankMain:22 - ==================
+2019-09-03 15:36:43 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:36:43 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:36:43 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:36:43 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:36:43 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:36:43 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:36:43 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:36:43 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:37:43 INFO  IronBankMain:268 - Create New checking account? [Y / N]
+2019-09-03 15:37:44 INFO  IronBankMain:274 - 5.0
+2019-09-03 15:37:45 INFO  IronBankMain:277 - New checking account added...
+2019-09-03 15:37:45 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:37:45 INFO  IronBankMain:22 - ==================
+2019-09-03 15:37:45 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:37:45 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:37:45 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:37:45 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:37:45 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:37:45 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:37:45 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:37:45 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:37:49 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 15:37:49 INFO  IronBankMain:183 - 1) 3000000000000005 $5.0 Checking
+2019-09-03 15:37:49 INFO  IronBankMain:183 - 2) 3000000000000003 $200.0 Checking
+2019-09-03 15:37:49 INFO  IronBankMain:183 - 3) 3000000000000004 $200.0 Savings
+2019-09-03 15:38:26 INFO  IronBankMain:187 - Invalid selection
+2019-09-03 15:38:26 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:38:26 INFO  IronBankMain:22 - ==================
+2019-09-03 15:38:26 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:38:26 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:38:26 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:38:26 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:38:26 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:38:26 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:38:26 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:38:26 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:42:14 INFO  IronBankMain:257 - Please confirm your PIN to view account details...
+2019-09-03 15:42:17 INFO  IronBankMain:260 - 
+Generating account details...
+2019-09-03 15:42:17 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:42:17 INFO  IronBankMain:22 - ==================
+2019-09-03 15:42:17 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:42:17 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:42:17 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:42:17 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:42:17 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:42:17 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:42:17 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:42:17 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:43:17 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:43:17 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:43:17 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:43:17 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:43:17 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:43:19 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:43:19 INFO  IronBankMain:35 - =========================
+2019-09-03 15:43:19 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:43:19 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:43:28 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:43:31 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:43:31 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:43:31 INFO  IronBankMain:22 - ==================
+2019-09-03 15:43:31 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:43:31 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:43:31 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:43:31 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:43:31 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:43:31 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:43:31 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:43:31 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:43:35 INFO  IronBankMain:257 - Please confirm your PIN to view account details...
+2019-09-03 15:43:39 INFO  IronBankMain:260 - 
+Generating account details...
+2019-09-03 15:43:39 INFO  IronBankMain:262 - Name = Aaron Gauntt
+Contact number = 512-869-9555
+Email Address = agauntt1@angelo.edu
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 0
+Date of birth = 1991-10-28
+SSN = 123231235
+2019-09-03 15:43:39 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:43:39 INFO  IronBankMain:22 - ==================
+2019-09-03 15:43:39 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:43:39 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:43:39 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:43:39 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:43:39 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:43:39 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:43:39 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:43:39 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:43:44 INFO  IronBankMain:257 - Please confirm your PIN to view account details...
+2019-09-03 15:43:46 INFO  IronBankMain:304 - Invalid input
+2019-09-03 15:43:46 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:43:46 INFO  IronBankMain:22 - ==================
+2019-09-03 15:43:46 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:43:46 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:43:46 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:43:46 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:43:46 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:43:46 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:43:46 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:43:46 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:43:46 INFO  IronBankMain:304 - Invalid input
+2019-09-03 15:43:46 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:43:46 INFO  IronBankMain:22 - ==================
+2019-09-03 15:43:46 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:43:46 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:43:46 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:43:46 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:43:46 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:43:46 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:43:46 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:43:46 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:45:59 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:45:59 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:45:59 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:45:59 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:45:59 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:46:02 INFO  IronBankMain:157 - 
+Input should be numeric only..Please try again
+
+2019-09-03 15:46:02 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:46:02 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:46:02 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:46:02 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:46:02 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:55:14 INFO  IronBankMain:151 - Goodbye...Thank you for using the Iron Bank
+2019-09-03 15:55:25 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:55:25 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:55:25 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:55:25 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:55:25 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:55:28 INFO  IronBankMain:151 - Goodbye...Thank you for using the Iron Bank
+2019-09-03 15:58:32 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:58:32 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:58:32 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:58:32 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:58:32 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:58:36 INFO  IronBankMain:157 - 
+Input should be numeric only..Please try again
+
+2019-09-03 15:58:36 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:58:36 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:58:36 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:58:36 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:58:36 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:58:37 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:58:37 INFO  IronBankMain:35 - =========================
+2019-09-03 15:58:37 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:58:37 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:58:44 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:58:47 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:58:47 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:58:47 INFO  IronBankMain:22 - ==================
+2019-09-03 15:58:47 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:58:47 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:58:47 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:58:47 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:58:47 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:58:47 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:58:47 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:58:47 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:58:51 INFO  IronBankMain:265 - Please confirm your PIN to view account details...
+2019-09-03 15:58:57 INFO  IronBankMain:272 - Incorrect PIN...Please try again
+2019-09-03 15:58:57 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:58:57 INFO  IronBankMain:22 - ==================
+2019-09-03 15:58:57 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:58:57 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:58:57 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:58:57 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:58:57 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:58:57 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:58:57 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:58:57 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 15:59:10 INFO  IronBankMain:245 - Displaying active accounts with current balances
+2019-09-03 15:59:10 INFO  IronBankMain:249 - 1) 3000000000000005 $5.0 Checking
+2019-09-03 15:59:10 INFO  IronBankMain:249 - 2) 3000000000000003 $200.0 Checking
+2019-09-03 15:59:10 INFO  IronBankMain:249 - 3) 3000000000000004 $200.0 Savings
+2019-09-03 15:59:33 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 15:59:33 INFO  IronBankMain:14 - ===========================
+2019-09-03 15:59:33 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 15:59:33 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 15:59:33 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 15:59:45 INFO  IronBankMain:34 - Main Menu
+2019-09-03 15:59:45 INFO  IronBankMain:35 - =========================
+2019-09-03 15:59:45 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 15:59:45 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 15:59:52 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 15:59:54 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 15:59:54 INFO  IronBankMain:21 - Main Menu
+2019-09-03 15:59:54 INFO  IronBankMain:22 - ==================
+2019-09-03 15:59:54 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 15:59:54 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 15:59:54 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 15:59:54 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 15:59:54 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 15:59:54 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 15:59:54 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 15:59:54 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:00:01 INFO  IronBankMain:256 - Select an account to view its transaction history
+2019-09-03 16:00:01 INFO  IronBankMain:260 - 1) 3000000000000005 $5.0 Checking
+2019-09-03 16:00:01 INFO  IronBankMain:260 - 2) 3000000000000003 $200.0 Checking
+2019-09-03 16:00:01 INFO  IronBankMain:260 - 3) 3000000000000004 $200.0 Savings
+2019-09-03 16:03:01 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 16:03:01 INFO  IronBankMain:14 - ===========================
+2019-09-03 16:03:01 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 16:03:01 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 16:03:01 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 16:03:20 INFO  IronBankMain:34 - Main Menu
+2019-09-03 16:03:20 INFO  IronBankMain:35 - =========================
+2019-09-03 16:03:20 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 16:03:20 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 16:03:25 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 16:03:29 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 16:03:29 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:03:29 INFO  IronBankMain:22 - ==================
+2019-09-03 16:03:29 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:03:29 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:03:29 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:03:29 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:03:29 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:03:29 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:03:29 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:03:29 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:03:36 INFO  IronBankMain:245 - Displaying active accounts with current balances
+2019-09-03 16:03:36 INFO  IronBankMain:249 - 1) 3000000000000005 $5.0 Checking
+2019-09-03 16:03:36 INFO  IronBankMain:249 - 2) 3000000000000003 $200.0 Checking
+2019-09-03 16:03:36 INFO  IronBankMain:249 - 3) 3000000000000004 $200.0 Savings
+2019-09-03 16:03:36 INFO  IronBankMain:251 - Press any key to return to the menu
+2019-09-03 16:03:39 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:03:39 INFO  IronBankMain:22 - ==================
+2019-09-03 16:03:39 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:03:39 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:03:39 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:03:39 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:03:39 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:03:39 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:03:39 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:03:39 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:04:46 INFO  IronBankMain:266 - Please confirm your PIN to view account details...
+2019-09-03 16:04:50 INFO  IronBankMain:269 - 
+Generating account details...
+2019-09-03 16:04:50 INFO  IronBankMain:271 - Name = Aaron Gauntt
+Contact number = 512-869-9555
+Email Address = agauntt1@angelo.edu
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 0
+Date of birth = 1991-10-28
+SSN = 123231235
+2019-09-03 16:04:50 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:04:50 INFO  IronBankMain:22 - ==================
+2019-09-03 16:04:50 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:04:50 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:04:50 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:04:50 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:04:50 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:04:50 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:04:50 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:04:50 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:05:52 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 16:05:52 INFO  IronBankMain:14 - ===========================
+2019-09-03 16:05:52 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 16:05:52 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 16:05:52 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 16:06:01 INFO  IronBankMain:34 - Main Menu
+2019-09-03 16:06:01 INFO  IronBankMain:35 - =========================
+2019-09-03 16:06:01 INFO  IronBankMain:36 - Enter your credentials to continue
+2019-09-03 16:06:01 INFO  IronBankMain:36 - Enter your username...
+2019-09-03 16:06:06 INFO  IronBankMain:38 - Enter your password...
+2019-09-03 16:06:10 INFO  IronBankMain:169 - 
+Welcome back agauntt1@angelo.edu
+2019-09-03 16:06:10 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:06:10 INFO  IronBankMain:22 - ==================
+2019-09-03 16:06:10 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:06:10 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:06:10 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:06:10 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:06:10 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:06:10 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:06:10 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:06:10 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:06:19 INFO  IronBankMain:266 - Please confirm your PIN to view account details...
+2019-09-03 16:06:21 INFO  IronBankMain:269 - 
+Generating account details...
+2019-09-03 16:06:21 INFO  IronBankMain:271 - Name = Aaron Gauntt
+Contact number = 512-869-9555
+Email Address = agauntt1@angelo.edu
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 0
+Date of birth = 1991-10-28
+SSN = 123231235
+2019-09-03 16:06:21 INFO  IronBankMain:272 - Press any key to return to the menu
+2019-09-03 16:06:25 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:06:25 INFO  IronBankMain:22 - ==================
+2019-09-03 16:06:25 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:06:25 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:06:25 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:06:25 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:06:25 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:06:25 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:06:25 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:06:25 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:06:31 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 16:06:31 INFO  IronBankMain:183 - 1) 3000000000000005 $5.0 Checking
+2019-09-03 16:06:31 INFO  IronBankMain:183 - 2) 3000000000000003 $200.0 Checking
+2019-09-03 16:06:31 INFO  IronBankMain:183 - 3) 3000000000000004 $200.0 Savings
+2019-09-03 16:06:42 INFO  IronBankMain:191 - How much would you like to deposit?
+2019-09-03 16:06:45 INFO  IronBankMain:195 - Success! New account balance is 15.0
+2019-09-03 16:06:45 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:06:45 INFO  IronBankMain:22 - ==================
+2019-09-03 16:06:45 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:06:45 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:06:45 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:06:45 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:06:45 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:06:45 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:06:45 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:06:45 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:06:49 INFO  IronBankMain:307 - 
+Goodbye...Thank you for using the Iron Bank
+2019-09-03 16:06:49 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 16:06:49 INFO  IronBankMain:14 - ===========================
+2019-09-03 16:06:49 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 16:06:49 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 16:06:49 INFO  IronBankMain:17 - 3) Exit
+2019-09-03 16:06:51 INFO  IronBankMain:48 - 
+Thank you for choosing the Iron Bank as your financial institution
+2019-09-03 16:06:51 INFO  IronBankMain:50 - Enter your first name
+2019-09-03 16:06:57 INFO  IronBankMain:53 - Enter last name
+2019-09-03 16:07:03 INFO  IronBankMain:56 - Enter your primary phone number in the format of 'xxx-xxx-xxxx' 
+** This is for contact purposes only. Iron Bank will never sell any personal information. This applies to all "
+personal information collected for this form**
+2019-09-03 16:07:41 INFO  IronBankMain:64 - Enter your email address, this will serve as your username when logging in
+2019-09-03 16:07:49 INFO  IronBankMain:70 - Enter your home address
+2019-09-03 16:07:54 INFO  IronBankMain:74 - Enter your City
+2019-09-03 16:08:00 INFO  IronBankMain:77 - Enter your State
+2019-09-03 16:08:02 INFO  IronBankMain:80 - Enter your ZIP code
+2019-09-03 16:08:05 INFO  IronBankMain:83 - Enter your date of birth in the format of dd-mm-yyyy
+2019-09-03 16:08:30 INFO  IronBankMain:87 - Enter your social security number
+2019-09-03 16:08:36 INFO  IronBankMain:90 - 
+Thank you. Please confirm the information provided is correct...
+2019-09-03 16:08:36 INFO  IronBankMain:94 - 
+Name = Aaron Test
+Contact number = 512-819-9440
+Email Address = toshe88@msn.com
+Address = 170 Haverland Dr
+City = Georgetown
+State = Texas
+ZIP = 78626
+Date of birth = Sun Feb 16 00:00:00 CST 1958
+SSN = 837449999
+2019-09-03 16:08:36 INFO  IronBankMain:97 - Is everything correct? [Y / N]
+2019-09-03 16:08:47 INFO  IronBankMain:103 - Info captured
+2019-09-03 16:08:47 INFO  IronBankMain:120 - 
+Enter a password for your account...Please do your best to remember it
+2019-09-03 16:08:53 INFO  IronBankMain:122 - Please re-enter your password to confirm...
+2019-09-03 16:08:55 INFO  IronBankMain:125 - Password verified
+2019-09-03 16:08:55 INFO  IronBankMain:135 - Finally, please select a 4-digit PIN number
+2019-09-03 16:08:59 INFO  IronBankMain:142 - User added with the following details...
+2019-09-03 16:08:59 INFO  IronBankMain:143 - UserDetails [firstName=Aaron, lastName=Test, contact=512-819-9440, email=toshe88@msn.com, address=170 Haverland Dr, city=Georgetown, state=Texas, zip=78626, dob=Sun Feb 16 00:00:00 CST 1958, ssn=837449999]
+2019-09-03 16:08:59 INFO  IronBankMain:169 - 
+Welcome back toshe88@msn.com
+2019-09-03 16:08:59 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:08:59 INFO  IronBankMain:22 - ==================
+2019-09-03 16:08:59 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:08:59 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:08:59 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:08:59 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:08:59 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:08:59 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:08:59 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:08:59 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:09:11 INFO  IronBankMain:245 - Displaying active accounts with current balances
+2019-09-03 16:09:11 INFO  IronBankMain:251 - Press any key to return to the menu
+2019-09-03 16:09:17 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:09:17 INFO  IronBankMain:22 - ==================
+2019-09-03 16:09:17 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:09:17 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:09:17 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:09:17 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:09:17 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:09:17 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:09:17 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:09:17 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:09:20 INFO  IronBankMain:178 - Please select the account you would like to deposit into
+2019-09-03 16:09:34 INFO  IronBankMain:202 - java.lang.NumberFormatException: For input string: "s"
+2019-09-03 16:09:34 INFO  IronBankMain:21 - Main Menu
+2019-09-03 16:09:34 INFO  IronBankMain:22 - ==================
+2019-09-03 16:09:34 INFO  IronBankMain:23 - 1) Make a deposit
+2019-09-03 16:09:34 INFO  IronBankMain:24 - 2) Make a withdrawal
+2019-09-03 16:09:34 INFO  IronBankMain:25 - 3) View account balance
+2019-09-03 16:09:34 INFO  IronBankMain:26 - 4) View transaction history
+2019-09-03 16:09:34 INFO  IronBankMain:27 - 5) View account details
+2019-09-03 16:09:34 INFO  IronBankMain:28 - 6) Open new checking account
+2019-09-03 16:09:34 INFO  IronBankMain:29 - 7) Open new savings account
+2019-09-03 16:09:34 INFO  IronBankMain:30 - 8) Log out
+2019-09-03 16:12:31 INFO  IronBankMain:13 - Welcome to the Iron Bank
+2019-09-03 16:12:31 INFO  IronBankMain:14 - ===========================
+2019-09-03 16:12:31 INFO  IronBankMain:15 - 1) Log in
+2019-09-03 16:12:31 INFO  IronBankMain:16 - 2) Create account
+2019-09-03 16:12:31 INFO  IronBankMain:17 - 3) Exit

@@ -187,7 +187,6 @@ public class IronBankMain implements Menus{
 						log.info("Invalid selection");
 					} else {
 						try {
-//							log.info(aList.get(option - 1));
 							log.info("How much would you like to deposit?");
 							double dep = sc.nextDouble();
 							double newBal = aList.get(option - 1).getBalance() + dep;
@@ -196,8 +195,7 @@ public class IronBankMain implements Menus{
 						} catch (Exception e) {
 							log.info(e);
 						}
-					}
-				
+					}				
 				} catch (Exception e) {
 					log.info(e);
 				}

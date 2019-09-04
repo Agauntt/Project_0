@@ -47,7 +47,7 @@ public class IronBankServiceImpl implements IronBankService {
 				IronBankMain.mainMenu(user);
 			}
 		} catch (Exception e) {
-			// TODO: handle exception
+			System.out.println(e);
 		}
 		return user;
 	}
@@ -66,7 +66,7 @@ public class IronBankServiceImpl implements IronBankService {
 
 	@Override
 	public UserDetails displayDeails(UserDetails uDetails) throws BusinessException {
-		// Talk to Vinay about best way to go about this
+		//
 		return null;
 	}
 
